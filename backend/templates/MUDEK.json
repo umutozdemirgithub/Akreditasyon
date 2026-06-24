@@ -1,0 +1,941 @@
+{
+  "template_key": "MÜDEK",
+  "template_name": "MÜDEK Öz Değerlendirme Raporu Şablonu",
+  "association_name": "MÜDEK Mühendislik Eğitim Programları Değerlendirme ve Akreditasyon Derneği",
+  "system_name": "MÜDEK Akreditasyon Yönetimi",
+  "version": "resmi-kaynak-kontrol-2026.06",
+  "report_type": "ÖZ DEĞERLENDİRME RAPORU",
+  "source_document": "https://www.mudek.org.tr/tr/belge/doc.shtm",
+  "source_note": "Kullanım öncesi ilgili akreditasyon kuruluşunun en güncel resmi Word/PDF şablonu ile kurum tarafından doğrulanmalıdır. Bu dosya sistem içi iskelet ve rehber amaçlıdır.",
+  "sections": [
+    {
+      "section_key": "A.1",
+      "main_title": "Programa İlişkin Genel Bilgiler",
+      "section_title": "İletişim Bilgileri",
+      "sort_order": 10,
+      "guide_question": "Programa İlişkin Genel Bilgiler kapsamında \"İletişim Bilgileri\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "https://www.mudek.org.tr/tr/belge/doc.shtm"
+    },
+    {
+      "section_key": "A.2",
+      "main_title": "Programa İlişkin Genel Bilgiler",
+      "section_title": "Program Başlıkları",
+      "sort_order": 20,
+      "guide_question": "Programa İlişkin Genel Bilgiler kapsamında \"Program Başlıkları\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "https://www.mudek.org.tr/tr/belge/doc.shtm"
+    },
+    {
+      "section_key": "A.3",
+      "main_title": "Programa İlişkin Genel Bilgiler",
+      "section_title": "Programdaki Eğitim Dili",
+      "sort_order": 30,
+      "guide_question": "Programa İlişkin Genel Bilgiler kapsamında \"Programdaki Eğitim Dili\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "https://www.mudek.org.tr/tr/belge/doc.shtm"
+    },
+    {
+      "section_key": "A.4",
+      "main_title": "Programa İlişkin Genel Bilgiler",
+      "section_title": "Programın Kısa Tarihçesi ve Değişiklikler",
+      "sort_order": 40,
+      "guide_question": "Programa İlişkin Genel Bilgiler kapsamında \"Programın Kısa Tarihçesi ve Değişiklikler\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "https://www.mudek.org.tr/tr/belge/doc.shtm"
+    },
+    {
+      "section_key": "A.5",
+      "main_title": "Programa İlişkin Genel Bilgiler",
+      "section_title": "Önceki Yetersizliklerin ve Gözlemlerin Giderilmesi Amacıyla Alınan Önlemler",
+      "sort_order": 50,
+      "guide_question": "Programa İlişkin Genel Bilgiler kapsamında \"Önceki Yetersizliklerin ve Gözlemlerin Giderilmesi Amacıyla Alınan Önlemler\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "https://www.mudek.org.tr/tr/belge/doc.shtm"
+    },
+    {
+      "section_key": "1.1",
+      "main_title": "Ölçüt 1. Öğrenciler",
+      "section_title": "Öğrenci Kabulleri",
+      "sort_order": 60,
+      "guide_question": "Ölçüt 1. Öğrenciler kapsamında \"Öğrenci Kabulleri\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [
+        "Öğrenci kabul, başarı, mezuniyet ve hareketlilik tablosu"
+      ],
+      "requires_table": true,
+      "source_document": "https://www.mudek.org.tr/tr/belge/doc.shtm"
+    },
+    {
+      "section_key": "1.2",
+      "main_title": "Ölçüt 1. Öğrenciler",
+      "section_title": "Yatay ve Dikey Geçişler, Çift Anadal ve Ders Sayma",
+      "sort_order": 70,
+      "guide_question": "Ölçüt 1. Öğrenciler kapsamında \"Yatay ve Dikey Geçişler, Çift Anadal ve Ders Sayma\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [
+        "Öğrenci kabul, başarı, mezuniyet ve hareketlilik tablosu"
+      ],
+      "requires_table": true,
+      "source_document": "https://www.mudek.org.tr/tr/belge/doc.shtm"
+    },
+    {
+      "section_key": "1.3",
+      "main_title": "Ölçüt 1. Öğrenciler",
+      "section_title": "Öğrenci Değişimi",
+      "sort_order": 80,
+      "guide_question": "Ölçüt 1. Öğrenciler kapsamında \"Öğrenci Değişimi\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [
+        "Öğrenci kabul, başarı, mezuniyet ve hareketlilik tablosu"
+      ],
+      "requires_table": true,
+      "source_document": "https://www.mudek.org.tr/tr/belge/doc.shtm"
+    },
+    {
+      "section_key": "1.4",
+      "main_title": "Ölçüt 1. Öğrenciler",
+      "section_title": "Danışmanlık ve İzleme",
+      "sort_order": 90,
+      "guide_question": "Ölçüt 1. Öğrenciler kapsamında \"Danışmanlık ve İzleme\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [
+        "Öğrenci kabul, başarı, mezuniyet ve hareketlilik tablosu"
+      ],
+      "requires_table": true,
+      "source_document": "https://www.mudek.org.tr/tr/belge/doc.shtm"
+    },
+    {
+      "section_key": "1.5",
+      "main_title": "Ölçüt 1. Öğrenciler",
+      "section_title": "Başarı Değerlendirmesi",
+      "sort_order": 100,
+      "guide_question": "Ölçüt 1. Öğrenciler kapsamında \"Başarı Değerlendirmesi\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [
+        "Öğrenci kabul, başarı, mezuniyet ve hareketlilik tablosu"
+      ],
+      "requires_table": true,
+      "source_document": "https://www.mudek.org.tr/tr/belge/doc.shtm"
+    },
+    {
+      "section_key": "1.6",
+      "main_title": "Ölçüt 1. Öğrenciler",
+      "section_title": "Mezuniyet Koşulları",
+      "sort_order": 110,
+      "guide_question": "Ölçüt 1. Öğrenciler kapsamında \"Mezuniyet Koşulları\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [
+        "Öğrenci kabul, başarı, mezuniyet ve hareketlilik tablosu"
+      ],
+      "requires_table": true,
+      "source_document": "https://www.mudek.org.tr/tr/belge/doc.shtm"
+    },
+    {
+      "section_key": "2.1",
+      "main_title": "Ölçüt 2. Program Eğitim Amaçları",
+      "section_title": "Tanımlanan Program Eğitim Amaçları",
+      "sort_order": 120,
+      "guide_question": "Ölçüt 2. Program Eğitim Amaçları kapsamında \"Tanımlanan Program Eğitim Amaçları\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "https://www.mudek.org.tr/tr/belge/doc.shtm"
+    },
+    {
+      "section_key": "2.2a",
+      "main_title": "Ölçüt 2. Program Eğitim Amaçları",
+      "section_title": "Program Eğitim Amaçlarının MÜDEK Tanımına Uyması",
+      "sort_order": 130,
+      "guide_question": "Ölçüt 2. Program Eğitim Amaçları kapsamında \"Program Eğitim Amaçlarının MÜDEK Tanımına Uyması\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "https://www.mudek.org.tr/tr/belge/doc.shtm"
+    },
+    {
+      "section_key": "2.2b",
+      "main_title": "Ölçüt 2. Program Eğitim Amaçları",
+      "section_title": "Kurum Özgörevleriyle Tutarlılık",
+      "sort_order": 140,
+      "guide_question": "Ölçüt 2. Program Eğitim Amaçları kapsamında \"Kurum Özgörevleriyle Tutarlılık\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "https://www.mudek.org.tr/tr/belge/doc.shtm"
+    },
+    {
+      "section_key": "2.2c",
+      "main_title": "Ölçüt 2. Program Eğitim Amaçları",
+      "section_title": "Program Eğitim Amaçlarını Belirleme ve Güncelleme Yöntemi",
+      "sort_order": 150,
+      "guide_question": "Ölçüt 2. Program Eğitim Amaçları kapsamında \"Program Eğitim Amaçlarını Belirleme ve Güncelleme Yöntemi\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "https://www.mudek.org.tr/tr/belge/doc.shtm"
+    },
+    {
+      "section_key": "2.2d",
+      "main_title": "Ölçüt 2. Program Eğitim Amaçları",
+      "section_title": "Program Eğitim Amaçlarının Yayımlanması",
+      "sort_order": 160,
+      "guide_question": "Ölçüt 2. Program Eğitim Amaçları kapsamında \"Program Eğitim Amaçlarının Yayımlanması\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "https://www.mudek.org.tr/tr/belge/doc.shtm"
+    },
+    {
+      "section_key": "2.3",
+      "main_title": "Ölçüt 2. Program Eğitim Amaçları",
+      "section_title": "Program Eğitim Amaçlarına Ulaşma",
+      "sort_order": 170,
+      "guide_question": "Ölçüt 2. Program Eğitim Amaçları kapsamında \"Program Eğitim Amaçlarına Ulaşma\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "https://www.mudek.org.tr/tr/belge/doc.shtm"
+    },
+    {
+      "section_key": "3.1",
+      "main_title": "Ölçüt 3. Program Çıktıları",
+      "section_title": "Tanımlanan Program Çıktıları",
+      "sort_order": 180,
+      "guide_question": "Ölçüt 3. Program Çıktıları kapsamında \"Tanımlanan Program Çıktıları\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [
+        "Program çıktıları ve ölçme-değerlendirme ilişki tablosu"
+      ],
+      "requires_table": true,
+      "source_document": "https://www.mudek.org.tr/tr/belge/doc.shtm"
+    },
+    {
+      "section_key": "3.2",
+      "main_title": "Ölçüt 3. Program Çıktıları",
+      "section_title": "Program Çıktılarının Ölçme ve Değerlendirme Süreci",
+      "sort_order": 190,
+      "guide_question": "Ölçüt 3. Program Çıktıları kapsamında \"Program Çıktılarının Ölçme ve Değerlendirme Süreci\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [
+        "Program çıktıları ve ölçme-değerlendirme ilişki tablosu"
+      ],
+      "requires_table": true,
+      "source_document": "https://www.mudek.org.tr/tr/belge/doc.shtm"
+    },
+    {
+      "section_key": "3.3",
+      "main_title": "Ölçüt 3. Program Çıktıları",
+      "section_title": "Program Çıktılarına Ulaşma",
+      "sort_order": 200,
+      "guide_question": "Ölçüt 3. Program Çıktıları kapsamında \"Program Çıktılarına Ulaşma\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [
+        "Program çıktıları ve ölçme-değerlendirme ilişki tablosu"
+      ],
+      "requires_table": true,
+      "source_document": "https://www.mudek.org.tr/tr/belge/doc.shtm"
+    },
+    {
+      "section_key": "4.1",
+      "main_title": "Ölçüt 4. Sürekli İyileştirme",
+      "section_title": "Sürekli İyileştirme Süreci",
+      "sort_order": 210,
+      "guide_question": "Ölçüt 4. Sürekli İyileştirme kapsamında \"Sürekli İyileştirme Süreci\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [
+        "PUKÖ sürekli iyileştirme izleme tablosu"
+      ],
+      "requires_table": true,
+      "source_document": "https://www.mudek.org.tr/tr/belge/doc.shtm"
+    },
+    {
+      "section_key": "4.2",
+      "main_title": "Ölçüt 4. Sürekli İyileştirme",
+      "section_title": "Sürekli İyileştirme Çalışmaları",
+      "sort_order": 220,
+      "guide_question": "Ölçüt 4. Sürekli İyileştirme kapsamında \"Sürekli İyileştirme Çalışmaları\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [
+        "PUKÖ sürekli iyileştirme izleme tablosu"
+      ],
+      "requires_table": true,
+      "source_document": "https://www.mudek.org.tr/tr/belge/doc.shtm"
+    },
+    {
+      "section_key": "5.1",
+      "main_title": "Ölçüt 5. Eğitim Planı",
+      "section_title": "Eğitim Planı (Müfredat)",
+      "sort_order": 230,
+      "guide_question": "Ölçüt 5. Eğitim Planı kapsamında \"Eğitim Planı (Müfredat)\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [
+        "Eğitim planı / müfredat matrisi"
+      ],
+      "requires_table": true,
+      "source_document": "https://www.mudek.org.tr/tr/belge/doc.shtm"
+    },
+    {
+      "section_key": "5.2",
+      "main_title": "Ölçüt 5. Eğitim Planı",
+      "section_title": "Eğitim Planını Uygulama Yöntemi",
+      "sort_order": 240,
+      "guide_question": "Ölçüt 5. Eğitim Planı kapsamında \"Eğitim Planını Uygulama Yöntemi\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [
+        "Eğitim planı / müfredat matrisi"
+      ],
+      "requires_table": true,
+      "source_document": "https://www.mudek.org.tr/tr/belge/doc.shtm"
+    },
+    {
+      "section_key": "5.3",
+      "main_title": "Ölçüt 5. Eğitim Planı",
+      "section_title": "Eğitim Planı Yönetim Sistemi",
+      "sort_order": 250,
+      "guide_question": "Ölçüt 5. Eğitim Planı kapsamında \"Eğitim Planı Yönetim Sistemi\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [
+        "Eğitim planı / müfredat matrisi"
+      ],
+      "requires_table": true,
+      "source_document": "https://www.mudek.org.tr/tr/belge/doc.shtm"
+    },
+    {
+      "section_key": "5.4",
+      "main_title": "Ölçüt 5. Eğitim Planı",
+      "section_title": "Eğitim Planının Bileşenleri",
+      "sort_order": 260,
+      "guide_question": "Ölçüt 5. Eğitim Planı kapsamında \"Eğitim Planının Bileşenleri\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [
+        "Eğitim planı / müfredat matrisi"
+      ],
+      "requires_table": true,
+      "source_document": "https://www.mudek.org.tr/tr/belge/doc.shtm"
+    },
+    {
+      "section_key": "5.5",
+      "main_title": "Ölçüt 5. Eğitim Planı",
+      "section_title": "Ana Tasarım Deneyimi",
+      "sort_order": 270,
+      "guide_question": "Ölçüt 5. Eğitim Planı kapsamında \"Ana Tasarım Deneyimi\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [
+        "Eğitim planı / müfredat matrisi"
+      ],
+      "requires_table": true,
+      "source_document": "https://www.mudek.org.tr/tr/belge/doc.shtm"
+    },
+    {
+      "section_key": "6.1",
+      "main_title": "Ölçüt 6. Öğretim Kadrosu",
+      "section_title": "Öğretim Kadrosunun Sayıca Yeterliliği",
+      "sort_order": 280,
+      "guide_question": "Ölçüt 6. Öğretim Kadrosu kapsamında \"Öğretim Kadrosunun Sayıca Yeterliliği\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [
+        "Öğretim elemanı yükü ve yetkinlik tablosu"
+      ],
+      "requires_table": true,
+      "source_document": "https://www.mudek.org.tr/tr/belge/doc.shtm"
+    },
+    {
+      "section_key": "6.2",
+      "main_title": "Ölçüt 6. Öğretim Kadrosu",
+      "section_title": "Öğretim Kadrosunun Nitelikleri",
+      "sort_order": 290,
+      "guide_question": "Ölçüt 6. Öğretim Kadrosu kapsamında \"Öğretim Kadrosunun Nitelikleri\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [
+        "Öğretim elemanı yükü ve yetkinlik tablosu"
+      ],
+      "requires_table": true,
+      "source_document": "https://www.mudek.org.tr/tr/belge/doc.shtm"
+    },
+    {
+      "section_key": "6.3",
+      "main_title": "Ölçüt 6. Öğretim Kadrosu",
+      "section_title": "Atama ve Yükseltme",
+      "sort_order": 300,
+      "guide_question": "Ölçüt 6. Öğretim Kadrosu kapsamında \"Atama ve Yükseltme\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [
+        "Öğretim elemanı yükü ve yetkinlik tablosu"
+      ],
+      "requires_table": true,
+      "source_document": "https://www.mudek.org.tr/tr/belge/doc.shtm"
+    },
+    {
+      "section_key": "7.1",
+      "main_title": "Ölçüt 7. Altyapı",
+      "section_title": "Eğitim için Kullanılan Alanlar ve Donanım",
+      "sort_order": 310,
+      "guide_question": "Ölçüt 7. Altyapı kapsamında \"Eğitim için Kullanılan Alanlar ve Donanım\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [
+        "Altyapı, laboratuvar ve kaynak envanteri"
+      ],
+      "requires_table": true,
+      "source_document": "https://www.mudek.org.tr/tr/belge/doc.shtm"
+    },
+    {
+      "section_key": "7.2",
+      "main_title": "Ölçüt 7. Altyapı",
+      "section_title": "Diğer Alanlar ve Altyapı",
+      "sort_order": 320,
+      "guide_question": "Ölçüt 7. Altyapı kapsamında \"Diğer Alanlar ve Altyapı\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [
+        "Altyapı, laboratuvar ve kaynak envanteri"
+      ],
+      "requires_table": true,
+      "source_document": "https://www.mudek.org.tr/tr/belge/doc.shtm"
+    },
+    {
+      "section_key": "7.3",
+      "main_title": "Ölçüt 7. Altyapı",
+      "section_title": "Modern Mühendislik Araçları, Bilgisayar ve Bilişim Altyapısı",
+      "sort_order": 330,
+      "guide_question": "Ölçüt 7. Altyapı kapsamında \"Modern Mühendislik Araçları, Bilgisayar ve Bilişim Altyapısı\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [
+        "Altyapı, laboratuvar ve kaynak envanteri"
+      ],
+      "requires_table": true,
+      "source_document": "https://www.mudek.org.tr/tr/belge/doc.shtm"
+    },
+    {
+      "section_key": "7.4",
+      "main_title": "Ölçüt 7. Altyapı",
+      "section_title": "Kütüphane",
+      "sort_order": 340,
+      "guide_question": "Ölçüt 7. Altyapı kapsamında \"Kütüphane\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [
+        "Altyapı, laboratuvar ve kaynak envanteri"
+      ],
+      "requires_table": true,
+      "source_document": "https://www.mudek.org.tr/tr/belge/doc.shtm"
+    },
+    {
+      "section_key": "7.5",
+      "main_title": "Ölçüt 7. Altyapı",
+      "section_title": "Özel Önlemler",
+      "sort_order": 350,
+      "guide_question": "Ölçüt 7. Altyapı kapsamında \"Özel Önlemler\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [
+        "Altyapı, laboratuvar ve kaynak envanteri"
+      ],
+      "requires_table": true,
+      "source_document": "https://www.mudek.org.tr/tr/belge/doc.shtm"
+    },
+    {
+      "section_key": "8.1",
+      "main_title": "Ölçüt 8. Kurum Desteği ve Parasal Kaynaklar",
+      "section_title": "Kurumsal Destek ve Bütçe Süreci",
+      "sort_order": 360,
+      "guide_question": "Ölçüt 8. Kurum Desteği ve Parasal Kaynaklar kapsamında \"Kurumsal Destek ve Bütçe Süreci\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "https://www.mudek.org.tr/tr/belge/doc.shtm"
+    },
+    {
+      "section_key": "8.2",
+      "main_title": "Ölçüt 8. Kurum Desteği ve Parasal Kaynaklar",
+      "section_title": "Bütçenin Öğretim Kadrosu Açısından Yeterliliği",
+      "sort_order": 370,
+      "guide_question": "Ölçüt 8. Kurum Desteği ve Parasal Kaynaklar kapsamında \"Bütçenin Öğretim Kadrosu Açısından Yeterliliği\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [
+        "Öğretim elemanı yükü ve yetkinlik tablosu"
+      ],
+      "requires_table": true,
+      "source_document": "https://www.mudek.org.tr/tr/belge/doc.shtm"
+    },
+    {
+      "section_key": "8.3",
+      "main_title": "Ölçüt 8. Kurum Desteği ve Parasal Kaynaklar",
+      "section_title": "Altyapı ve Donanım Desteği",
+      "sort_order": 380,
+      "guide_question": "Ölçüt 8. Kurum Desteği ve Parasal Kaynaklar kapsamında \"Altyapı ve Donanım Desteği\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [
+        "Altyapı, laboratuvar ve kaynak envanteri"
+      ],
+      "requires_table": true,
+      "source_document": "https://www.mudek.org.tr/tr/belge/doc.shtm"
+    },
+    {
+      "section_key": "8.4",
+      "main_title": "Ölçüt 8. Kurum Desteği ve Parasal Kaynaklar",
+      "section_title": "Teknik, İdari ve Hizmet Kadrosu Desteği",
+      "sort_order": 390,
+      "guide_question": "Ölçüt 8. Kurum Desteği ve Parasal Kaynaklar kapsamında \"Teknik, İdari ve Hizmet Kadrosu Desteği\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "https://www.mudek.org.tr/tr/belge/doc.shtm"
+    },
+    {
+      "section_key": "9.1",
+      "main_title": "Ölçüt 9. Organizasyon ve Karar Alma Süreçleri",
+      "section_title": "Organizasyon ve Karar Alma Süreçleri",
+      "sort_order": 400,
+      "guide_question": "Ölçüt 9. Organizasyon ve Karar Alma Süreçleri kapsamında \"Organizasyon ve Karar Alma Süreçleri\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "https://www.mudek.org.tr/tr/belge/doc.shtm"
+    },
+    {
+      "section_key": "I.1",
+      "main_title": "Ek I. Programa İlişkin Ek Bilgiler",
+      "section_title": "Ders İzlenceleri",
+      "sort_order": 410,
+      "guide_question": "Ek I. Programa İlişkin Ek Bilgiler kapsamında \"Ders İzlenceleri\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri",
+        "kanıt dizini ve ek belge listesi"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "https://www.mudek.org.tr/tr/belge/doc.shtm"
+    },
+    {
+      "section_key": "I.2",
+      "main_title": "Ek I. Programa İlişkin Ek Bilgiler",
+      "section_title": "Öğretim Elemanların Özgeçmişleri",
+      "sort_order": 420,
+      "guide_question": "Ek I. Programa İlişkin Ek Bilgiler kapsamında \"Öğretim Elemanların Özgeçmişleri\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri",
+        "kanıt dizini ve ek belge listesi"
+      ],
+      "required_tables": [
+        "Öğretim elemanı yükü ve yetkinlik tablosu"
+      ],
+      "requires_table": true,
+      "source_document": "https://www.mudek.org.tr/tr/belge/doc.shtm"
+    },
+    {
+      "section_key": "I.3",
+      "main_title": "Ek I. Programa İlişkin Ek Bilgiler",
+      "section_title": "Donanım",
+      "sort_order": 430,
+      "guide_question": "Ek I. Programa İlişkin Ek Bilgiler kapsamında \"Donanım\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri",
+        "kanıt dizini ve ek belge listesi"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "https://www.mudek.org.tr/tr/belge/doc.shtm"
+    },
+    {
+      "section_key": "I.4",
+      "main_title": "Ek I. Programa İlişkin Ek Bilgiler",
+      "section_title": "Bölüm Belge Odası",
+      "sort_order": 440,
+      "guide_question": "Ek I. Programa İlişkin Ek Bilgiler kapsamında \"Bölüm Belge Odası\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri",
+        "kanıt dizini ve ek belge listesi"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "https://www.mudek.org.tr/tr/belge/doc.shtm"
+    },
+    {
+      "section_key": "I.5",
+      "main_title": "Ek I. Programa İlişkin Ek Bilgiler",
+      "section_title": "Diğer Bilgiler",
+      "sort_order": 450,
+      "guide_question": "Ek I. Programa İlişkin Ek Bilgiler kapsamında \"Diğer Bilgiler\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri",
+        "kanıt dizini ve ek belge listesi"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "https://www.mudek.org.tr/tr/belge/doc.shtm"
+    },
+    {
+      "section_key": "II.1",
+      "main_title": "Ek II. Kurum Profili",
+      "section_title": "Kuruma İlişkin Bilgiler",
+      "sort_order": 460,
+      "guide_question": "Ek II. Kurum Profili kapsamında \"Kuruma İlişkin Bilgiler\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "https://www.mudek.org.tr/tr/belge/doc.shtm"
+    },
+    {
+      "section_key": "II.2",
+      "main_title": "Ek II. Kurum Profili",
+      "section_title": "Fakülteye İlişkin Bilgiler",
+      "sort_order": 470,
+      "guide_question": "Ek II. Kurum Profili kapsamında \"Fakülteye İlişkin Bilgiler\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "https://www.mudek.org.tr/tr/belge/doc.shtm"
+    },
+    {
+      "section_key": "II.3",
+      "main_title": "Ek II. Kurum Profili",
+      "section_title": "Personel ve Personel Politikaları",
+      "sort_order": 480,
+      "guide_question": "Ek II. Kurum Profili kapsamında \"Personel ve Personel Politikaları\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "https://www.mudek.org.tr/tr/belge/doc.shtm"
+    },
+    {
+      "section_key": "II.4",
+      "main_title": "Ek II. Kurum Profili",
+      "section_title": "Öğretim Üyelerinin Yükleri",
+      "sort_order": 490,
+      "guide_question": "Ek II. Kurum Profili kapsamında \"Öğretim Üyelerinin Yükleri\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [
+        "Öğretim elemanı yükü ve yetkinlik tablosu"
+      ],
+      "requires_table": true,
+      "source_document": "https://www.mudek.org.tr/tr/belge/doc.shtm"
+    },
+    {
+      "section_key": "II.5",
+      "main_title": "Ek II. Kurum Profili",
+      "section_title": "Yarı Zamanlı ve Ek Görevli Öğretim Elemanlarının İzlenmesi",
+      "sort_order": 500,
+      "guide_question": "Ek II. Kurum Profili kapsamında \"Yarı Zamanlı ve Ek Görevli Öğretim Elemanlarının İzlenmesi\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [
+        "Öğretim elemanı yükü ve yetkinlik tablosu"
+      ],
+      "requires_table": true,
+      "source_document": "https://www.mudek.org.tr/tr/belge/doc.shtm"
+    },
+    {
+      "section_key": "II.6",
+      "main_title": "Ek II. Kurum Profili",
+      "section_title": "Öğrenci Kayıt ve Mezuniyet Bilgileri",
+      "sort_order": 510,
+      "guide_question": "Ek II. Kurum Profili kapsamında \"Öğrenci Kayıt ve Mezuniyet Bilgileri\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [
+        "Öğrenci kabul, başarı, mezuniyet ve hareketlilik tablosu"
+      ],
+      "requires_table": true,
+      "source_document": "https://www.mudek.org.tr/tr/belge/doc.shtm"
+    },
+    {
+      "section_key": "II.7",
+      "main_title": "Ek II. Kurum Profili",
+      "section_title": "Kredi Tanımı",
+      "sort_order": 520,
+      "guide_question": "Ek II. Kurum Profili kapsamında \"Kredi Tanımı\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "https://www.mudek.org.tr/tr/belge/doc.shtm"
+    },
+    {
+      "section_key": "II.8",
+      "main_title": "Ek II. Kurum Profili",
+      "section_title": "Kabul, Yatay ve Dikey Geçiş, Çift Anadal ve Mezuniyet Koşulları",
+      "sort_order": 530,
+      "guide_question": "Ek II. Kurum Profili kapsamında \"Kabul, Yatay ve Dikey Geçiş, Çift Anadal ve Mezuniyet Koşulları\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "https://www.mudek.org.tr/tr/belge/doc.shtm"
+    },
+    {
+      "section_key": "II.9",
+      "main_title": "Ek II. Kurum Profili",
+      "section_title": "Fakülte Belge Odası",
+      "sort_order": 540,
+      "guide_question": "Ek II. Kurum Profili kapsamında \"Fakülte Belge Odası\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "https://www.mudek.org.tr/tr/belge/doc.shtm"
+    }
+  ]
+}

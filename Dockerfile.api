@@ -1,0 +1,29 @@
+FROM python:3.12-slim
+
+ENV PYTHONDONTWRITEBYTECODE=1
+ENV PYTHONUNBUFFERED=1
+ENV MEDEK_DATA_DIR=/app/medek_data
+ENV MEDEK_SOFFICE_PATH=/usr/bin/libreoffice
+
+WORKDIR /app
+
+RUN apt-get update \
+    && apt-get install -y --no-install-recommends libreoffice fonts-dejavu fontconfig \
+    && rm -rf /var/lib/apt/lists/* \
+    && mkdir -p /app/medek_data/kanitlar
+
+COPY requirements-api.txt .
+RUN pip install --no-cache-dir -r requirements-api.txt
+
+COPY backend ./backend
+COPY services ./services
+
+# Deployment wizard inside the API container needs these read-only deployment assets
+# to verify that the release package contains the required production files.
+COPY docker-compose.web.yml docker-compose.queue.yml docker-compose.https.yml .env.web.example ./
+COPY tools ./tools
+COPY core ./core
+
+EXPOSE 8000
+
+CMD ["uvicorn", "backend.main:app", "--host", "0.0.0.0", "--port", "8000", "--proxy-headers", "--forwarded-allow-ips", "*"]

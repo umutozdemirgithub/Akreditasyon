@@ -1,0 +1,111 @@
+/* Extracted from styles.css lines 967-1076. Keep import order in ../styles.css. */
+/* ====================== PREMIUM PARTICLE LOGIN ====================== */
+.login-pro {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(135deg, #0f172a 0%, #1e2937 100%);
+  overflow: hidden;
+  position: relative;
+}
+
+#particle-canvas {
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  opacity: 0.75;
+}
+
+.login-pro-card {
+  width: 100%;
+  max-width: 480px;
+  background: rgba(15, 23, 42, 0.82);
+  backdrop-filter: blur(28px);
+  -webkit-backdrop-filter: blur(28px);
+  padding: 56px 52px;
+  border-radius: 32px;
+  border: 1px solid rgba(148, 163, 184, 0.18);
+  box-shadow: 
+    0 30px 70px -15px rgba(0, 0, 0, 0.7),
+    inset 0 2px 0 rgba(255,255,255,0.1);
+  color: white;
+  text-align: center;
+  position: relative;
+  z-index: 2;
+}
+
+.shield-glow {
+  display: inline-flex;
+  color: #60a5fa;
+  margin-bottom: 28px;
+  filter: drop-shadow(0 0 35px rgba(96, 165, 250, 0.8));
+  animation: shieldFloat 4s ease-in-out infinite;
+  transition: transform 0.4s ease;
+}
+
+.shield-glow:hover {
+  transform: scale(1.12) rotate(8deg);
+}
+
+@keyframes shieldFloat {
+  0%, 100% { transform: translateY(0) rotate(0deg); }
+  50% { transform: translateY(-14px) rotate(5deg); }
+}
+
+.card-header h2 {
+  font-size: 34px;
+  font-weight: 900;
+  letter-spacing: -0.025em;
+  margin: 0 0 10px;
+  background: linear-gradient(90deg, #bae6fd, #c4d0ff, #e0e7ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.card-header p {
+  color: #94a3b8;
+  font-size: 15.5px;
+  line-height: 1.55;
+  margin-bottom: 42px;
+}
+
+.field input {
+  width: 100%;
+  background: rgba(255, 255, 255, 0.07);
+  border: 1.5px solid rgba(148, 163, 184, 0.25);
+  padding: 19px 22px;
+  border-radius: 18px;
+  color: white;
+  font-size: 16.5px;
+  margin-bottom: 20px;
+  transition: all 0.35s ease;
+}
+
+.field input:focus {
+  border-color: #60a5fa;
+  box-shadow: 0 0 0 5px rgba(96, 165, 250, 0.18);
+  background: rgba(255, 255, 255, 0.12);
+}
+
+.pro-btn {
+  width: 100%;
+  padding: 19px;
+  background: linear-gradient(90deg, #1e40af, #3b82f6, #60a5fa);
+  background-size: 200% auto;
+  color: white;
+  border: none;
+  border-radius: 18px;
+  font-weight: 900;
+  font-size: 17.5px;
+  cursor: pointer;
+  transition: all 0.4s ease;
+  box-shadow: 0 12px 35px -8px rgba(37, 99, 235, 0.6);
+  margin-top: 8px;
+}
+
+.pro-btn:hover {
+  background-position: right center;
+  transform: translateY(-4px);
+  box-shadow: 0 20px 45px -8px rgba(37, 99, 235, 0.75);
+}

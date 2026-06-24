@@ -1,0 +1,16 @@
+.env
+.env.*
+!.env.web.example
+medek_data/
+outputs/
+node_modules/
+frontend/node_modules/
+frontend/dist/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+*.sqlite3
+*.db
+*.zip
+.DS_Store
+Akreditasyon/

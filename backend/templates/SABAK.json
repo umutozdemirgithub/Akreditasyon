@@ -1,0 +1,1810 @@
+{
+  "template_key": "SABAK",
+  "template_name": "SABAK",
+  "association_name": "SABAK Sağlık Bilimleri Eğitim Programları Değerlendirme ve Akreditasyon Kurulu",
+  "system_name": "SABAK Akreditasyon Yönetimi",
+  "version": "2026.2-guide",
+  "report_type": "ÖZ DEĞERLENDİRME RAPORU",
+  "source_document": "sabak.pdf",
+  "guide_metadata_version": "2026.2",
+  "sections": [
+    {
+      "section_key": "A.1",
+      "main_title": "Programa İlişkin Genel Bilgiler",
+      "section_title": "İletişim Bilgileri",
+      "sort_order": 10,
+      "guide_question": "Programa İlişkin Genel Bilgiler kapsamında \"İletişim Bilgileri\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "A.2",
+      "main_title": "Programa İlişkin Genel Bilgiler",
+      "section_title": "Program Başlıkları",
+      "sort_order": 20,
+      "guide_question": "Programa İlişkin Genel Bilgiler kapsamında \"Program Başlıkları\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "A.3",
+      "main_title": "Programa İlişkin Genel Bilgiler",
+      "section_title": "Programın Türü",
+      "sort_order": 30,
+      "guide_question": "Programa İlişkin Genel Bilgiler kapsamında \"Programın Türü\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "A.4",
+      "main_title": "Programa İlişkin Genel Bilgiler",
+      "section_title": "Programdaki Eğitim Dili",
+      "sort_order": 40,
+      "guide_question": "Programa İlişkin Genel Bilgiler kapsamında \"Programdaki Eğitim Dili\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "A.5",
+      "main_title": "Programa İlişkin Genel Bilgiler",
+      "section_title": "Yönetim Yapısı",
+      "sort_order": 50,
+      "guide_question": "Programa İlişkin Genel Bilgiler kapsamında \"Yönetim Yapısı\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları",
+        "organizasyon şeması",
+        "bütçe ve kaynak kullanım kayıtları",
+        "yönetim/kurul kararları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "A.6",
+      "main_title": "Programa İlişkin Genel Bilgiler",
+      "section_title": "Programın Kısa Tarihçesi ve Değişiklikler",
+      "sort_order": 60,
+      "guide_question": "Programa İlişkin Genel Bilgiler kapsamında \"Programın Kısa Tarihçesi ve Değişiklikler\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "A.7",
+      "main_title": "Programa İlişkin Genel Bilgiler",
+      "section_title": "Öz Değerlendirme Raporu Hazırlama Süreci",
+      "sort_order": 70,
+      "guide_question": "Programa İlişkin Genel Bilgiler kapsamında \"Öz Değerlendirme Raporu Hazırlama Süreci\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları",
+        "sınav/ödev/rubrik örnekleri",
+        "başarı analizleri",
+        "ölçme-değerlendirme raporları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "A.8",
+      "main_title": "Programa İlişkin Genel Bilgiler",
+      "section_title": "Öz Değerlendirme Özeti",
+      "sort_order": 80,
+      "guide_question": "Programa İlişkin Genel Bilgiler kapsamında \"Öz Değerlendirme Özeti\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları",
+        "sınav/ödev/rubrik örnekleri",
+        "başarı analizleri",
+        "ölçme-değerlendirme raporları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "A.9",
+      "main_title": "Programa İlişkin Genel Bilgiler",
+      "section_title": "Önceki Yetersizliklerin ve Gözlemlerin Giderilmesi Amacıyla Alınan Önlemler",
+      "sort_order": 90,
+      "guide_question": "Programa İlişkin Genel Bilgiler kapsamında \"Önceki Yetersizliklerin ve Gözlemlerin Giderilmesi Amacıyla Alınan Önlemler\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "1.1",
+      "main_title": "Ölçüt 1. Öğrenciler",
+      "section_title": "Tanım",
+      "sort_order": 100,
+      "guide_question": "Ölçüt 1. Öğrenciler kapsamında \"Tanım\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "1.2",
+      "main_title": "Ölçüt 1. Öğrenciler",
+      "section_title": "Erişilebilirlik",
+      "sort_order": 110,
+      "guide_question": "Ölçüt 1. Öğrenciler kapsamında \"Erişilebilirlik\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "1.3",
+      "main_title": "Ölçüt 1. Öğrenciler",
+      "section_title": "Paydaş katılımı",
+      "sort_order": 120,
+      "guide_question": "Ölçüt 1. Öğrenciler kapsamında \"Paydaş katılımı\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları",
+        "program amaçları dokümanı",
+        "iç/dış paydaş toplantı tutanakları",
+        "anket ve değerlendirme raporları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "1.4",
+      "main_title": "Ölçüt 1. Öğrenciler",
+      "section_title": "Misyon ve vizyon ile uyumu",
+      "sort_order": 130,
+      "guide_question": "Ölçüt 1. Öğrenciler kapsamında \"Misyon ve vizyon ile uyumu\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları",
+        "program amaçları dokümanı",
+        "iç/dış paydaş toplantı tutanakları",
+        "anket ve değerlendirme raporları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "1.5",
+      "main_title": "Ölçüt 1. Öğrenciler",
+      "section_title": "Gözden geçirme ve güncelleme",
+      "sort_order": 140,
+      "guide_question": "Ölçüt 1. Öğrenciler kapsamında \"Gözden geçirme ve güncelleme\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları",
+        "PUKÖ izleme kayıtları",
+        "iyileştirme kararları",
+        "izleme/değerlendirme raporları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "1.6",
+      "main_title": "Ölçüt 1. Öğrenciler",
+      "section_title": "İyileştirmeler ve PUKÖ döngüsü",
+      "sort_order": 150,
+      "guide_question": "Ölçüt 1. Öğrenciler kapsamında \"İyileştirmeler ve PUKÖ döngüsü\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları",
+        "PUKÖ izleme kayıtları",
+        "iyileştirme kararları",
+        "izleme/değerlendirme raporları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "2.1",
+      "main_title": "Ölçüt 2. Programın Öğretim Amaçları",
+      "section_title": "Tanım",
+      "sort_order": 160,
+      "guide_question": "Ölçüt 2. Programın Öğretim Amaçları kapsamında \"Tanım\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "2.2",
+      "main_title": "Ölçüt 2. Programın Öğretim Amaçları",
+      "section_title": "Erişilebilirlik",
+      "sort_order": 170,
+      "guide_question": "Ölçüt 2. Programın Öğretim Amaçları kapsamında \"Erişilebilirlik\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "2.3",
+      "main_title": "Ölçüt 2. Programın Öğretim Amaçları",
+      "section_title": "Yöntem",
+      "sort_order": 180,
+      "guide_question": "Ölçüt 2. Programın Öğretim Amaçları kapsamında \"Yöntem\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "2.4",
+      "main_title": "Ölçüt 2. Programın Öğretim Amaçları",
+      "section_title": "Amaçlar ile ilişkilendirilmesi",
+      "sort_order": 190,
+      "guide_question": "Ölçüt 2. Programın Öğretim Amaçları kapsamında \"Amaçlar ile ilişkilendirilmesi\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "2.5",
+      "main_title": "Ölçüt 2. Programın Öğretim Amaçları",
+      "section_title": "UÇEP yetkinliklerini içerme durumu",
+      "sort_order": 200,
+      "guide_question": "Ölçüt 2. Programın Öğretim Amaçları kapsamında \"UÇEP yetkinliklerini içerme durumu\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları",
+        "program çıktıları listesi",
+        "çıktı-ders/amaç matrisi",
+        "TYYÇ/UÇEP/SABAK/İLAD uyum matrisi"
+      ],
+      "required_tables": [
+        "Çıktı/kazanım uyum matrisi"
+      ],
+      "requires_table": true,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "2.6",
+      "main_title": "Ölçüt 2. Programın Öğretim Amaçları",
+      "section_title": "TYYÇ yetkinliklerini içerme durumu",
+      "sort_order": 210,
+      "guide_question": "Ölçüt 2. Programın Öğretim Amaçları kapsamında \"TYYÇ yetkinliklerini içerme durumu\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları",
+        "program çıktıları listesi",
+        "çıktı-ders/amaç matrisi",
+        "TYYÇ/UÇEP/SABAK/İLAD uyum matrisi"
+      ],
+      "required_tables": [
+        "Çıktı/kazanım uyum matrisi"
+      ],
+      "requires_table": true,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "2.7",
+      "main_title": "Ölçüt 2. Programın Öğretim Amaçları",
+      "section_title": "SABAK Çıktıları ile uyumu",
+      "sort_order": 220,
+      "guide_question": "Ölçüt 2. Programın Öğretim Amaçları kapsamında \"SABAK Çıktıları ile uyumu\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "2.8",
+      "main_title": "Ölçüt 2. Programın Öğretim Amaçları",
+      "section_title": "Gözden geçirme ve güncelleme",
+      "sort_order": 230,
+      "guide_question": "Ölçüt 2. Programın Öğretim Amaçları kapsamında \"Gözden geçirme ve güncelleme\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları",
+        "PUKÖ izleme kayıtları",
+        "iyileştirme kararları",
+        "izleme/değerlendirme raporları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "2.9",
+      "main_title": "Ölçüt 2. Programın Öğretim Amaçları",
+      "section_title": "İyileştirmeler ve PUKÖ döngüsü",
+      "sort_order": 240,
+      "guide_question": "Ölçüt 2. Programın Öğretim Amaçları kapsamında \"İyileştirmeler ve PUKÖ döngüsü\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları",
+        "PUKÖ izleme kayıtları",
+        "iyileştirme kararları",
+        "izleme/değerlendirme raporları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "3.1",
+      "main_title": "Ölçüt 3. İletişim Alan Kazanımları",
+      "section_title": "Tanım, amaç ve çıktılar ile uyumu",
+      "sort_order": 250,
+      "guide_question": "Ölçüt 3. İletişim Alan Kazanımları kapsamında \"Tanım, amaç ve çıktılar ile uyumu\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "3.2",
+      "main_title": "Ölçüt 3. İletişim Alan Kazanımları",
+      "section_title": "Eğitim planı temel bileşenleri",
+      "sort_order": 260,
+      "guide_question": "Ölçüt 3. İletişim Alan Kazanımları kapsamında \"Eğitim planı temel bileşenleri\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları",
+        "ders bilgi paketleri",
+        "müfredat ve AKTS tabloları",
+        "ders izlenceleri"
+      ],
+      "required_tables": [
+        "Eğitim planı tablosu"
+      ],
+      "requires_table": true,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "3.3",
+      "main_title": "Ölçüt 3. İletişim Alan Kazanımları",
+      "section_title": "YÖK kararları ile uyumu",
+      "sort_order": 270,
+      "guide_question": "Ölçüt 3. İletişim Alan Kazanımları kapsamında \"YÖK kararları ile uyumu\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "3.4",
+      "main_title": "Ölçüt 3. İletişim Alan Kazanımları",
+      "section_title": "UÇEP ile uyumu",
+      "sort_order": 280,
+      "guide_question": "Ölçüt 3. İletişim Alan Kazanımları kapsamında \"UÇEP ile uyumu\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları",
+        "program çıktıları listesi",
+        "çıktı-ders/amaç matrisi",
+        "TYYÇ/UÇEP/SABAK/İLAD uyum matrisi"
+      ],
+      "required_tables": [
+        "Çıktı/kazanım uyum matrisi"
+      ],
+      "requires_table": true,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "3.5",
+      "main_title": "Ölçüt 3. İletişim Alan Kazanımları",
+      "section_title": "Eğitim amaçlarına ulaşılmasını garanti etmesi",
+      "sort_order": 290,
+      "guide_question": "Ölçüt 3. İletişim Alan Kazanımları kapsamında \"Eğitim amaçlarına ulaşılmasını garanti etmesi\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları",
+        "program amaçları dokümanı",
+        "iç/dış paydaş toplantı tutanakları",
+        "anket ve değerlendirme raporları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "3.6",
+      "main_title": "Ölçüt 3. İletişim Alan Kazanımları",
+      "section_title": "Öğrenim çıktıları ile ilişkilendirilmesi",
+      "sort_order": 300,
+      "guide_question": "Ölçüt 3. İletişim Alan Kazanımları kapsamında \"Öğrenim çıktıları ile ilişkilendirilmesi\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "3.7",
+      "main_title": "Ölçüt 3. İletişim Alan Kazanımları",
+      "section_title": "Program çıktılarına ulaşılmasını garanti etmesi",
+      "sort_order": 310,
+      "guide_question": "Ölçüt 3. İletişim Alan Kazanımları kapsamında \"Program çıktılarına ulaşılmasını garanti etmesi\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları",
+        "program çıktıları listesi",
+        "çıktı-ders/amaç matrisi",
+        "TYYÇ/UÇEP/SABAK/İLAD uyum matrisi"
+      ],
+      "required_tables": [
+        "Çıktı/kazanım uyum matrisi"
+      ],
+      "requires_table": true,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "3.8",
+      "main_title": "Ölçüt 3. İletişim Alan Kazanımları",
+      "section_title": "Disipline özgü uygulamaya yönelik karar verme deneyimi",
+      "sort_order": 320,
+      "guide_question": "Ölçüt 3. İletişim Alan Kazanımları kapsamında \"Disipline özgü uygulamaya yönelik karar verme deneyimi\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "3.9",
+      "main_title": "Ölçüt 3. İletişim Alan Kazanımları",
+      "section_title": "Eğitim Yöntemleri",
+      "sort_order": 330,
+      "guide_question": "Ölçüt 3. İletişim Alan Kazanımları kapsamında \"Eğitim Yöntemleri\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "3.10",
+      "main_title": "Ölçüt 3. İletişim Alan Kazanımları",
+      "section_title": "Eğitim yönetim sistemi",
+      "sort_order": 340,
+      "guide_question": "Ölçüt 3. İletişim Alan Kazanımları kapsamında \"Eğitim yönetim sistemi\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları",
+        "organizasyon şeması",
+        "bütçe ve kaynak kullanım kayıtları",
+        "yönetim/kurul kararları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "3.11",
+      "main_title": "Ölçüt 3. İletişim Alan Kazanımları",
+      "section_title": "Gözden geçirme ve güncelleme",
+      "sort_order": 350,
+      "guide_question": "Ölçüt 3. İletişim Alan Kazanımları kapsamında \"Gözden geçirme ve güncelleme\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları",
+        "PUKÖ izleme kayıtları",
+        "iyileştirme kararları",
+        "izleme/değerlendirme raporları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "3.12",
+      "main_title": "Ölçüt 3. İletişim Alan Kazanımları",
+      "section_title": "İyileştirmeler ve PUKÖ döngüsü",
+      "sort_order": 360,
+      "guide_question": "Ölçüt 3. İletişim Alan Kazanımları kapsamında \"İyileştirmeler ve PUKÖ döngüsü\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları",
+        "PUKÖ izleme kayıtları",
+        "iyileştirme kararları",
+        "izleme/değerlendirme raporları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "4.1",
+      "main_title": "Ölçüt 4. Sürekli İyileştirme",
+      "section_title": "Tanım",
+      "sort_order": 370,
+      "guide_question": "Ölçüt 4. Sürekli İyileştirme kapsamında \"Tanım\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "4.2",
+      "main_title": "Ölçüt 4. Sürekli İyileştirme",
+      "section_title": "Ders izlencesi/ders bilgi paketi",
+      "sort_order": 380,
+      "guide_question": "Ölçüt 4. Sürekli İyileştirme kapsamında \"Ders izlencesi/ders bilgi paketi\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları",
+        "ders bilgi paketleri",
+        "müfredat ve AKTS tabloları",
+        "ders izlenceleri"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "4.3",
+      "main_title": "Ölçüt 4. Sürekli İyileştirme",
+      "section_title": "AKTS ve ölçme değerlendirme tutarlılığı",
+      "sort_order": 390,
+      "guide_question": "Ölçüt 4. Sürekli İyileştirme kapsamında \"AKTS ve ölçme değerlendirme tutarlılığı\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları",
+        "ders bilgi paketleri",
+        "müfredat ve AKTS tabloları",
+        "ders izlenceleri",
+        "sınav/ödev/rubrik örnekleri",
+        "başarı analizleri",
+        "ölçme-değerlendirme raporları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "4.4",
+      "main_title": "Ölçüt 4. Sürekli İyileştirme",
+      "section_title": "Ölçme değerlendirme sistemi",
+      "sort_order": 400,
+      "guide_question": "Ölçüt 4. Sürekli İyileştirme kapsamında \"Ölçme değerlendirme sistemi\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları",
+        "sınav/ödev/rubrik örnekleri",
+        "başarı analizleri",
+        "ölçme-değerlendirme raporları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "4.5",
+      "main_title": "Ölçüt 4. Sürekli İyileştirme",
+      "section_title": "Program çıktısına ulaşma düzeyi",
+      "sort_order": 410,
+      "guide_question": "Ölçüt 4. Sürekli İyileştirme kapsamında \"Program çıktısına ulaşma düzeyi\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları",
+        "program çıktıları listesi",
+        "çıktı-ders/amaç matrisi",
+        "TYYÇ/UÇEP/SABAK/İLAD uyum matrisi"
+      ],
+      "required_tables": [
+        "Çıktı/kazanım uyum matrisi"
+      ],
+      "requires_table": true,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "4.6",
+      "main_title": "Ölçüt 4. Sürekli İyileştirme",
+      "section_title": "SABAK çıktılarına ulaşma düzeyi",
+      "sort_order": 420,
+      "guide_question": "Ölçüt 4. Sürekli İyileştirme kapsamında \"SABAK çıktılarına ulaşma düzeyi\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "4.7",
+      "main_title": "Ölçüt 4. Sürekli İyileştirme",
+      "section_title": "Program çıktıları ve mezun izleme sonuçları",
+      "sort_order": 430,
+      "guide_question": "Ölçüt 4. Sürekli İyileştirme kapsamında \"Program çıktıları ve mezun izleme sonuçları\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları",
+        "program çıktıları listesi",
+        "çıktı-ders/amaç matrisi",
+        "TYYÇ/UÇEP/SABAK/İLAD uyum matrisi"
+      ],
+      "required_tables": [
+        "Öğrenci/mezun/kontenjan tablosu",
+        "Çıktı/kazanım uyum matrisi"
+      ],
+      "requires_table": true,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "4.8",
+      "main_title": "Ölçüt 4. Sürekli İyileştirme",
+      "section_title": "Eğitim amaçları ve mezun izleme sonuçları",
+      "sort_order": 440,
+      "guide_question": "Ölçüt 4. Sürekli İyileştirme kapsamında \"Eğitim amaçları ve mezun izleme sonuçları\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları",
+        "program amaçları dokümanı",
+        "iç/dış paydaş toplantı tutanakları",
+        "anket ve değerlendirme raporları"
+      ],
+      "required_tables": [
+        "Öğrenci/mezun/kontenjan tablosu"
+      ],
+      "requires_table": true,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "4.9",
+      "main_title": "Ölçüt 4. Sürekli İyileştirme",
+      "section_title": "Gözden geçirme ve güncelleme",
+      "sort_order": 450,
+      "guide_question": "Ölçüt 4. Sürekli İyileştirme kapsamında \"Gözden geçirme ve güncelleme\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları",
+        "PUKÖ izleme kayıtları",
+        "iyileştirme kararları",
+        "izleme/değerlendirme raporları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "4.10",
+      "main_title": "Ölçüt 4. Sürekli İyileştirme",
+      "section_title": "İyileştirmeler ve PUKÖ döngüsü",
+      "sort_order": 460,
+      "guide_question": "Ölçüt 4. Sürekli İyileştirme kapsamında \"İyileştirmeler ve PUKÖ döngüsü\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları",
+        "PUKÖ izleme kayıtları",
+        "iyileştirme kararları",
+        "izleme/değerlendirme raporları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "5.1",
+      "main_title": "Ölçüt 5. Öğretim Programı",
+      "section_title": "Öğrenci kabul ve mezuniyet süreçleri",
+      "sort_order": 470,
+      "guide_question": "Ölçüt 5. Öğretim Programı kapsamında \"Öğrenci kabul ve mezuniyet süreçleri\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları",
+        "öğrenci işleri kayıtları",
+        "kontenjan ve yerleşme verileri",
+        "mezuniyet/mezun izleme kayıtları"
+      ],
+      "required_tables": [
+        "Öğrenci/mezun/kontenjan tablosu"
+      ],
+      "requires_table": true,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "5.2",
+      "main_title": "Ölçüt 5. Öğretim Programı",
+      "section_title": "Öğrencilerin Ulusal ve/veya Uluslararası Değişim/Hareketlilik Programlarına Katılımı",
+      "sort_order": 480,
+      "guide_question": "Ölçüt 5. Öğretim Programı kapsamında \"Öğrencilerin Ulusal ve/veya Uluslararası Değişim/Hareketlilik Programlarına Katılımı\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları",
+        "öğrenci işleri kayıtları",
+        "kontenjan ve yerleşme verileri",
+        "mezuniyet/mezun izleme kayıtları"
+      ],
+      "required_tables": [
+        "Öğrenci/mezun/kontenjan tablosu"
+      ],
+      "requires_table": true,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "5.3",
+      "main_title": "Ölçüt 5. Öğretim Programı",
+      "section_title": "Öğrenci Danışmanlığı",
+      "sort_order": 490,
+      "guide_question": "Ölçüt 5. Öğretim Programı kapsamında \"Öğrenci Danışmanlığı\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları"
+      ],
+      "required_tables": [
+        "Öğrenci/mezun/kontenjan tablosu"
+      ],
+      "requires_table": true,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "5.4",
+      "main_title": "Ölçüt 5. Öğretim Programı",
+      "section_title": "Kariyer planlama çalışmaları",
+      "sort_order": 500,
+      "guide_question": "Ölçüt 5. Öğretim Programı kapsamında \"Kariyer planlama çalışmaları\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "5.5",
+      "main_title": "Ölçüt 5. Öğretim Programı",
+      "section_title": "Öğrenci temsiliyeti",
+      "sort_order": 510,
+      "guide_question": "Ölçüt 5. Öğretim Programı kapsamında \"Öğrenci temsiliyeti\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları"
+      ],
+      "required_tables": [
+        "Öğrenci/mezun/kontenjan tablosu"
+      ],
+      "requires_table": true,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "5.6",
+      "main_title": "Ölçüt 5. Öğretim Programı",
+      "section_title": "Öğrencilere sağlanan olanaklar",
+      "sort_order": 520,
+      "guide_question": "Ölçüt 5. Öğretim Programı kapsamında \"Öğrencilere sağlanan olanaklar\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları"
+      ],
+      "required_tables": [
+        "Öğrenci/mezun/kontenjan tablosu"
+      ],
+      "requires_table": true,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "5.7",
+      "main_title": "Ölçüt 5. Öğretim Programı",
+      "section_title": "Öğrencilerin sağlanan olanaklardan yararlanma durumu",
+      "sort_order": 530,
+      "guide_question": "Ölçüt 5. Öğretim Programı kapsamında \"Öğrencilerin sağlanan olanaklardan yararlanma durumu\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları"
+      ],
+      "required_tables": [
+        "Öğrenci/mezun/kontenjan tablosu"
+      ],
+      "requires_table": true,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "5.8",
+      "main_title": "Ölçüt 5. Öğretim Programı",
+      "section_title": "Toplumsal katkı",
+      "sort_order": 540,
+      "guide_question": "Ölçüt 5. Öğretim Programı kapsamında \"Toplumsal katkı\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "5.9",
+      "main_title": "Ölçüt 5. Öğretim Programı",
+      "section_title": "Finansal olanak ve destekler",
+      "sort_order": 550,
+      "guide_question": "Ölçüt 5. Öğretim Programı kapsamında \"Finansal olanak ve destekler\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları",
+        "organizasyon şeması",
+        "bütçe ve kaynak kullanım kayıtları",
+        "yönetim/kurul kararları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "5.10",
+      "main_title": "Ölçüt 5. Öğretim Programı",
+      "section_title": "Bilgilendirme ve oryantasyon çalışmaları",
+      "sort_order": 560,
+      "guide_question": "Ölçüt 5. Öğretim Programı kapsamında \"Bilgilendirme ve oryantasyon çalışmaları\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "5.11",
+      "main_title": "Ölçüt 5. Öğretim Programı",
+      "section_title": "Özel gereksinimli öğrencilere yönelik düzenlemeler",
+      "sort_order": 570,
+      "guide_question": "Ölçüt 5. Öğretim Programı kapsamında \"Özel gereksinimli öğrencilere yönelik düzenlemeler\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları"
+      ],
+      "required_tables": [
+        "Öğrenci/mezun/kontenjan tablosu"
+      ],
+      "requires_table": true,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "5.12",
+      "main_title": "Ölçüt 5. Öğretim Programı",
+      "section_title": "Gözden geçirme ve güncelleme",
+      "sort_order": 580,
+      "guide_question": "Ölçüt 5. Öğretim Programı kapsamında \"Gözden geçirme ve güncelleme\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları",
+        "PUKÖ izleme kayıtları",
+        "iyileştirme kararları",
+        "izleme/değerlendirme raporları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "5.13",
+      "main_title": "Ölçüt 5. Öğretim Programı",
+      "section_title": "İyileştirmeler ve PUKÖ döngüsü",
+      "sort_order": 590,
+      "guide_question": "Ölçüt 5. Öğretim Programı kapsamında \"İyileştirmeler ve PUKÖ döngüsü\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları",
+        "PUKÖ izleme kayıtları",
+        "iyileştirme kararları",
+        "izleme/değerlendirme raporları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "5.14",
+      "main_title": "Ölçüt 5. Öğretim Programı",
+      "section_title": "Mezunlar",
+      "sort_order": 600,
+      "guide_question": "Ölçüt 5. Öğretim Programı kapsamında \"Mezunlar\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları",
+        "öğrenci işleri kayıtları",
+        "kontenjan ve yerleşme verileri",
+        "mezuniyet/mezun izleme kayıtları"
+      ],
+      "required_tables": [
+        "Öğrenci/mezun/kontenjan tablosu"
+      ],
+      "requires_table": true,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "5.15",
+      "main_title": "Ölçüt 5. Öğretim Programı",
+      "section_title": "Gözden geçirme ve güncelleme",
+      "sort_order": 610,
+      "guide_question": "Ölçüt 5. Öğretim Programı kapsamında \"Gözden geçirme ve güncelleme\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları",
+        "PUKÖ izleme kayıtları",
+        "iyileştirme kararları",
+        "izleme/değerlendirme raporları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "5.16",
+      "main_title": "Ölçüt 5. Öğretim Programı",
+      "section_title": "İyileştirmeler ve PUKÖ döngüsü",
+      "sort_order": 620,
+      "guide_question": "Ölçüt 5. Öğretim Programı kapsamında \"İyileştirmeler ve PUKÖ döngüsü\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları",
+        "PUKÖ izleme kayıtları",
+        "iyileştirme kararları",
+        "izleme/değerlendirme raporları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "6.1",
+      "main_title": "Ölçüt 6. Öğretim Kadrosu",
+      "section_title": "Öğretim elemanlarının sayısı ve niteliği",
+      "sort_order": 630,
+      "guide_question": "Ölçüt 6. Öğretim Kadrosu kapsamında \"Öğretim elemanlarının sayısı ve niteliği\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları",
+        "öğretim elemanı özgeçmişleri",
+        "ders yükü tabloları",
+        "atama-yükseltme ölçütleri"
+      ],
+      "required_tables": [
+        "Öğretim elemanı / iş yükü tablosu"
+      ],
+      "requires_table": true,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "6.2",
+      "main_title": "Ölçüt 6. Öğretim Kadrosu",
+      "section_title": "İlgili kuruluş, sektör vb. iletişim ve iş birliği",
+      "sort_order": 640,
+      "guide_question": "Ölçüt 6. Öğretim Kadrosu kapsamında \"İlgili kuruluş, sektör vb. iletişim ve iş birliği\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "6.3",
+      "main_title": "Ölçüt 6. Öğretim Kadrosu",
+      "section_title": "Öğretim elemanı iş yükü dağılımı",
+      "sort_order": 650,
+      "guide_question": "Ölçüt 6. Öğretim Kadrosu kapsamında \"Öğretim elemanı iş yükü dağılımı\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları",
+        "öğretim elemanı özgeçmişleri",
+        "ders yükü tabloları",
+        "atama-yükseltme ölçütleri"
+      ],
+      "required_tables": [
+        "Öğretim elemanı / iş yükü tablosu"
+      ],
+      "requires_table": true,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "6.4",
+      "main_title": "Ölçüt 6. Öğretim Kadrosu",
+      "section_title": "Öğretim elemanı seçimi, ataması ve akademik yükseltmeler",
+      "sort_order": 660,
+      "guide_question": "Ölçüt 6. Öğretim Kadrosu kapsamında \"Öğretim elemanı seçimi, ataması ve akademik yükseltmeler\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları",
+        "öğretim elemanı özgeçmişleri",
+        "ders yükü tabloları",
+        "atama-yükseltme ölçütleri"
+      ],
+      "required_tables": [
+        "Öğretim elemanı / iş yükü tablosu"
+      ],
+      "requires_table": true,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "6.5",
+      "main_title": "Ölçüt 6. Öğretim Kadrosu",
+      "section_title": "Kadro gelişimine yönelik planlama",
+      "sort_order": 670,
+      "guide_question": "Ölçüt 6. Öğretim Kadrosu kapsamında \"Kadro gelişimine yönelik planlama\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "6.6",
+      "main_title": "Ölçüt 6. Öğretim Kadrosu",
+      "section_title": "Öğretim elemanlarının akademik performansları ve ödüllendirme",
+      "sort_order": 680,
+      "guide_question": "Ölçüt 6. Öğretim Kadrosu kapsamında \"Öğretim elemanlarının akademik performansları ve ödüllendirme\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları",
+        "öğretim elemanı özgeçmişleri",
+        "ders yükü tabloları",
+        "atama-yükseltme ölçütleri"
+      ],
+      "required_tables": [
+        "Öğretim elemanı / iş yükü tablosu"
+      ],
+      "requires_table": true,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "6.7",
+      "main_title": "Ölçüt 6. Öğretim Kadrosu",
+      "section_title": "Öğretim elemanlarının gelişimi",
+      "sort_order": 690,
+      "guide_question": "Ölçüt 6. Öğretim Kadrosu kapsamında \"Öğretim elemanlarının gelişimi\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları",
+        "öğretim elemanı özgeçmişleri",
+        "ders yükü tabloları",
+        "atama-yükseltme ölçütleri"
+      ],
+      "required_tables": [
+        "Öğretim elemanı / iş yükü tablosu"
+      ],
+      "requires_table": true,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "6.8",
+      "main_title": "Ölçüt 6. Öğretim Kadrosu",
+      "section_title": "Gözden geçirme ve güncelleme",
+      "sort_order": 700,
+      "guide_question": "Ölçüt 6. Öğretim Kadrosu kapsamında \"Gözden geçirme ve güncelleme\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları",
+        "PUKÖ izleme kayıtları",
+        "iyileştirme kararları",
+        "izleme/değerlendirme raporları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "6.9",
+      "main_title": "Ölçüt 6. Öğretim Kadrosu",
+      "section_title": "İyileştirmeler ve PUKÖ döngüsü",
+      "sort_order": 710,
+      "guide_question": "Ölçüt 6. Öğretim Kadrosu kapsamında \"İyileştirmeler ve PUKÖ döngüsü\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları",
+        "PUKÖ izleme kayıtları",
+        "iyileştirme kararları",
+        "izleme/değerlendirme raporları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "7.1",
+      "main_title": "Ölçüt 7. Programın Alt Yapısı",
+      "section_title": "Fiziki koşullar",
+      "sort_order": 720,
+      "guide_question": "Ölçüt 7. Programın Alt Yapısı kapsamında \"Fiziki koşullar\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları",
+        "altyapı envanteri",
+        "fotoğraf/kroki/listeler",
+        "LMS ve bilişim sistemi kayıtları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "7.2",
+      "main_title": "Ölçüt 7. Programın Alt Yapısı",
+      "section_title": "Ders ve alan dışı etkinlikler için fiziki koşullar",
+      "sort_order": 730,
+      "guide_question": "Ölçüt 7. Programın Alt Yapısı kapsamında \"Ders ve alan dışı etkinlikler için fiziki koşullar\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları",
+        "ders bilgi paketleri",
+        "müfredat ve AKTS tabloları",
+        "ders izlenceleri",
+        "altyapı envanteri",
+        "fotoğraf/kroki/listeler",
+        "LMS ve bilişim sistemi kayıtları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "7.3",
+      "main_title": "Ölçüt 7. Programın Alt Yapısı",
+      "section_title": "Bilişim altyapısı",
+      "sort_order": 740,
+      "guide_question": "Ölçüt 7. Programın Alt Yapısı kapsamında \"Bilişim altyapısı\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları",
+        "altyapı envanteri",
+        "fotoğraf/kroki/listeler",
+        "LMS ve bilişim sistemi kayıtları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "7.4",
+      "main_title": "Ölçüt 7. Programın Alt Yapısı",
+      "section_title": "Kütüphane olanakları",
+      "sort_order": 750,
+      "guide_question": "Ölçüt 7. Programın Alt Yapısı kapsamında \"Kütüphane olanakları\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları",
+        "altyapı envanteri",
+        "fotoğraf/kroki/listeler",
+        "LMS ve bilişim sistemi kayıtları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "7.5",
+      "main_title": "Ölçüt 7. Programın Alt Yapısı",
+      "section_title": "Güvenlik önlemleri",
+      "sort_order": 760,
+      "guide_question": "Ölçüt 7. Programın Alt Yapısı kapsamında \"Güvenlik önlemleri\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "7.6",
+      "main_title": "Ölçüt 7. Programın Alt Yapısı",
+      "section_title": "Özel gereksinimli bireyler için alt yapı",
+      "sort_order": 770,
+      "guide_question": "Ölçüt 7. Programın Alt Yapısı kapsamında \"Özel gereksinimli bireyler için alt yapı\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "7.7",
+      "main_title": "Ölçüt 7. Programın Alt Yapısı",
+      "section_title": "Program arşivi",
+      "sort_order": 780,
+      "guide_question": "Ölçüt 7. Programın Alt Yapısı kapsamında \"Program arşivi\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "7.8",
+      "main_title": "Ölçüt 7. Programın Alt Yapısı",
+      "section_title": "Altyapı bakım ve işletmesi",
+      "sort_order": 790,
+      "guide_question": "Ölçüt 7. Programın Alt Yapısı kapsamında \"Altyapı bakım ve işletmesi\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları",
+        "altyapı envanteri",
+        "fotoğraf/kroki/listeler",
+        "LMS ve bilişim sistemi kayıtları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "7.9",
+      "main_title": "Ölçüt 7. Programın Alt Yapısı",
+      "section_title": "Uzaktan eğitim alt yapısı",
+      "sort_order": 800,
+      "guide_question": "Ölçüt 7. Programın Alt Yapısı kapsamında \"Uzaktan eğitim alt yapısı\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları",
+        "altyapı envanteri",
+        "fotoğraf/kroki/listeler",
+        "LMS ve bilişim sistemi kayıtları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "7.10",
+      "main_title": "Ölçüt 7. Programın Alt Yapısı",
+      "section_title": "Sınırlılıkların giderilmesine yönelik uygulamalar",
+      "sort_order": 810,
+      "guide_question": "Ölçüt 7. Programın Alt Yapısı kapsamında \"Sınırlılıkların giderilmesine yönelik uygulamalar\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "7.11",
+      "main_title": "Ölçüt 7. Programın Alt Yapısı",
+      "section_title": "İnsan kaynakları",
+      "sort_order": 820,
+      "guide_question": "Ölçüt 7. Programın Alt Yapısı kapsamında \"İnsan kaynakları\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "7.12",
+      "main_title": "Ölçüt 7. Programın Alt Yapısı",
+      "section_title": "Gözden geçirme ve güncelleme",
+      "sort_order": 830,
+      "guide_question": "Ölçüt 7. Programın Alt Yapısı kapsamında \"Gözden geçirme ve güncelleme\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları",
+        "PUKÖ izleme kayıtları",
+        "iyileştirme kararları",
+        "izleme/değerlendirme raporları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "7.13",
+      "main_title": "Ölçüt 7. Programın Alt Yapısı",
+      "section_title": "İyileştirmeler ve PUKÖ döngüsü",
+      "sort_order": 840,
+      "guide_question": "Ölçüt 7. Programın Alt Yapısı kapsamında \"İyileştirmeler ve PUKÖ döngüsü\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları",
+        "PUKÖ izleme kayıtları",
+        "iyileştirme kararları",
+        "izleme/değerlendirme raporları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "8.1",
+      "main_title": "Ölçüt 8. Kurum Desteği ve Finansal Kaynaklar",
+      "section_title": "Program başkanı",
+      "sort_order": 850,
+      "guide_question": "Ölçüt 8. Kurum Desteği ve Finansal Kaynaklar kapsamında \"Program başkanı\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "8.2",
+      "main_title": "Ölçüt 8. Kurum Desteği ve Finansal Kaynaklar",
+      "section_title": "İhtiyaçların karşılanma yöntemi",
+      "sort_order": 860,
+      "guide_question": "Ölçüt 8. Kurum Desteği ve Finansal Kaynaklar kapsamında \"İhtiyaçların karşılanma yöntemi\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "8.3",
+      "main_title": "Ölçüt 8. Kurum Desteği ve Finansal Kaynaklar",
+      "section_title": "Programın gelişim planı",
+      "sort_order": 870,
+      "guide_question": "Ölçüt 8. Kurum Desteği ve Finansal Kaynaklar kapsamında \"Programın gelişim planı\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "8.4",
+      "main_title": "Ölçüt 8. Kurum Desteği ve Finansal Kaynaklar",
+      "section_title": "Birim/Öz Değerlendirme Raporu",
+      "sort_order": 880,
+      "guide_question": "Ölçüt 8. Kurum Desteği ve Finansal Kaynaklar kapsamında \"Birim/Öz Değerlendirme Raporu\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları",
+        "sınav/ödev/rubrik örnekleri",
+        "başarı analizleri",
+        "ölçme-değerlendirme raporları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "8.5",
+      "main_title": "Ölçüt 8. Kurum Desteği ve Finansal Kaynaklar",
+      "section_title": "Toplumsal katkı faaliyetleri",
+      "sort_order": 890,
+      "guide_question": "Ölçüt 8. Kurum Desteği ve Finansal Kaynaklar kapsamında \"Toplumsal katkı faaliyetleri\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "8.6",
+      "main_title": "Ölçüt 8. Kurum Desteği ve Finansal Kaynaklar",
+      "section_title": "Gözden geçirme ve güncelleme",
+      "sort_order": 900,
+      "guide_question": "Ölçüt 8. Kurum Desteği ve Finansal Kaynaklar kapsamında \"Gözden geçirme ve güncelleme\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları",
+        "PUKÖ izleme kayıtları",
+        "iyileştirme kararları",
+        "izleme/değerlendirme raporları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "8.7",
+      "main_title": "Ölçüt 8. Kurum Desteği ve Finansal Kaynaklar",
+      "section_title": "İyileştirmeler ve PUKÖ döngüsü",
+      "sort_order": 910,
+      "guide_question": "Ölçüt 8. Kurum Desteği ve Finansal Kaynaklar kapsamında \"İyileştirmeler ve PUKÖ döngüsü\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları",
+        "PUKÖ izleme kayıtları",
+        "iyileştirme kararları",
+        "izleme/değerlendirme raporları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "EK-I.1",
+      "main_title": "Ek I. Kurum Profili",
+      "section_title": "Üniversiteye ilişkin bilgiler",
+      "sort_order": 920,
+      "guide_question": "Ek I. Kurum Profili kapsamında \"Üniversiteye ilişkin bilgiler\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "EK-I.2",
+      "main_title": "Ek I. Kurum Profili",
+      "section_title": "Fakülte/Yüksekokula ilişkin bilgiler",
+      "sort_order": 930,
+      "guide_question": "Ek I. Kurum Profili kapsamında \"Fakülte/Yüksekokula ilişkin bilgiler\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "EK-I.3",
+      "main_title": "Ek I. Kurum Profili",
+      "section_title": "Kurum Profili - Organizasyon Şeması",
+      "sort_order": 940,
+      "guide_question": "Ek I. Kurum Profili kapsamında \"Kurum Profili - Organizasyon Şeması\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları",
+        "organizasyon şeması",
+        "bütçe ve kaynak kullanım kayıtları",
+        "yönetim/kurul kararları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "EK-I.4",
+      "main_title": "Ek I. Kurum Profili",
+      "section_title": "Kurum Profili - Fakültedeki/Yüksekokuldaki Lisans Programları",
+      "sort_order": 950,
+      "guide_question": "Ek I. Kurum Profili kapsamında \"Kurum Profili - Fakültedeki/Yüksekokuldaki Lisans Programları\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "EK-I.5",
+      "main_title": "Ek I. Kurum Profili",
+      "section_title": "Kurum Profili - Programlara Göre Öğrenci ve Mezun Sayıları",
+      "sort_order": 960,
+      "guide_question": "Ek I. Kurum Profili kapsamında \"Kurum Profili - Programlara Göre Öğrenci ve Mezun Sayıları\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları"
+      ],
+      "required_tables": [
+        "Öğrenci/mezun/kontenjan tablosu"
+      ],
+      "requires_table": true,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "EK-I.6",
+      "main_title": "Ek I. Kurum Profili",
+      "section_title": "Kurum Profili - YKS Bilgileri",
+      "sort_order": 970,
+      "guide_question": "Ek I. Kurum Profili kapsamında \"Kurum Profili - YKS Bilgileri\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "EK-I.7",
+      "main_title": "Ek I. Kurum Profili",
+      "section_title": "Kurum Profili - Öğretim Üye ve Elemanları",
+      "sort_order": 980,
+      "guide_question": "Ek I. Kurum Profili kapsamında \"Kurum Profili - Öğretim Üye ve Elemanları\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "ÖDR-T1",
+      "main_title": "ÖDR Tabloları",
+      "section_title": "Eğitim planı",
+      "sort_order": 990,
+      "guide_question": "ÖDR Tabloları kapsamında \"Eğitim planı\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları",
+        "ders bilgi paketleri",
+        "müfredat ve AKTS tabloları",
+        "ders izlenceleri"
+      ],
+      "required_tables": [
+        "Tablo 1. Eğitim planı"
+      ],
+      "requires_table": true,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "ÖDR-T2",
+      "main_title": "ÖDR Tabloları",
+      "section_title": "Sınıflara göre öğrenci sayıları",
+      "sort_order": 1000,
+      "guide_question": "ÖDR Tabloları kapsamında \"Sınıflara göre öğrenci sayıları\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları"
+      ],
+      "required_tables": [
+        "Tablo 2. Sınıflara göre öğrenci sayıları"
+      ],
+      "requires_table": true,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "ÖDR-T3",
+      "main_title": "ÖDR Tabloları",
+      "section_title": "Kontenjan bilgileri",
+      "sort_order": 1010,
+      "guide_question": "ÖDR Tabloları kapsamında \"Kontenjan bilgileri\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları",
+        "öğrenci işleri kayıtları",
+        "kontenjan ve yerleşme verileri",
+        "mezuniyet/mezun izleme kayıtları"
+      ],
+      "required_tables": [
+        "Tablo 3. Kontenjan bilgileri"
+      ],
+      "requires_table": true,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "ÖDR-T4",
+      "main_title": "ÖDR Tabloları",
+      "section_title": "Merkezi sınav dışında programa yerleşen ve ayrılan öğrenciler",
+      "sort_order": 1020,
+      "guide_question": "ÖDR Tabloları kapsamında \"Merkezi sınav dışında programa yerleşen ve ayrılan öğrenciler\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları"
+      ],
+      "required_tables": [
+        "Tablo 4. Merkezi sınav dışında programa yerleşen ve ayrılan öğrenciler"
+      ],
+      "requires_table": true,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "ÖDR-T5",
+      "main_title": "ÖDR Tabloları",
+      "section_title": "Çift anadal ve yan dal bilgileri",
+      "sort_order": 1030,
+      "guide_question": "ÖDR Tabloları kapsamında \"Çift anadal ve yan dal bilgileri\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları",
+        "öğrenci işleri kayıtları",
+        "kontenjan ve yerleşme verileri",
+        "mezuniyet/mezun izleme kayıtları"
+      ],
+      "required_tables": [
+        "Tablo 5. Çift anadal ve yan dal bilgileri"
+      ],
+      "requires_table": true,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "ÖDR-T6",
+      "main_title": "ÖDR Tabloları",
+      "section_title": "Hareketlilik programları",
+      "sort_order": 1040,
+      "guide_question": "ÖDR Tabloları kapsamında \"Hareketlilik programları\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları"
+      ],
+      "required_tables": [
+        "Tablo 6. Hareketlilik programları"
+      ],
+      "requires_table": true,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "ÖDR-T7",
+      "main_title": "ÖDR Tabloları",
+      "section_title": "Mezun sayıları",
+      "sort_order": 1050,
+      "guide_question": "ÖDR Tabloları kapsamında \"Mezun sayıları\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları"
+      ],
+      "required_tables": [
+        "Tablo 7. Mezun sayıları"
+      ],
+      "requires_table": true,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "ÖDR-T8",
+      "main_title": "ÖDR Tabloları",
+      "section_title": "Öğretim elemanı dağılımı",
+      "sort_order": 1060,
+      "guide_question": "ÖDR Tabloları kapsamında \"Öğretim elemanı dağılımı\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları",
+        "öğretim elemanı özgeçmişleri",
+        "ders yükü tabloları",
+        "atama-yükseltme ölçütleri"
+      ],
+      "required_tables": [
+        "Tablo 8. Öğretim elemanı dağılımı"
+      ],
+      "requires_table": true,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "ÖDR-T9",
+      "main_title": "ÖDR Tabloları",
+      "section_title": "Öğretim kadrosu iş yükü dağılımı",
+      "sort_order": 1070,
+      "guide_question": "ÖDR Tabloları kapsamında \"Öğretim kadrosu iş yükü dağılımı\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları",
+        "öğretim elemanı özgeçmişleri",
+        "ders yükü tabloları",
+        "atama-yükseltme ölçütleri"
+      ],
+      "required_tables": [
+        "Tablo 9. Öğretim kadrosu iş yükü dağılımı"
+      ],
+      "requires_table": true,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "ÖDR-T10",
+      "main_title": "ÖDR Tabloları",
+      "section_title": "Kadrolu tam zamanlı öğretim elemanlarının danışmanlık sayıları",
+      "sort_order": 1080,
+      "guide_question": "ÖDR Tabloları kapsamında \"Kadrolu tam zamanlı öğretim elemanlarının danışmanlık sayıları\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları",
+        "öğretim elemanı özgeçmişleri",
+        "ders yükü tabloları",
+        "atama-yükseltme ölçütleri"
+      ],
+      "required_tables": [
+        "Tablo 10. Kadrolu tam zamanlı öğretim elemanlarının danışmanlık sayıları"
+      ],
+      "requires_table": true,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "ÖDR-T11",
+      "main_title": "ÖDR Tabloları",
+      "section_title": "Kadrolu tam zamanlı öğretim elemanlarının yaptıkları projeler",
+      "sort_order": 1090,
+      "guide_question": "ÖDR Tabloları kapsamında \"Kadrolu tam zamanlı öğretim elemanlarının yaptıkları projeler\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları",
+        "öğretim elemanı özgeçmişleri",
+        "ders yükü tabloları",
+        "atama-yükseltme ölçütleri"
+      ],
+      "required_tables": [
+        "Tablo 11. Kadrolu tam zamanlı öğretim elemanlarının yaptıkları projeler"
+      ],
+      "requires_table": true,
+      "source_document": "sabak.pdf"
+    },
+    {
+      "section_key": "ÖDR-T12",
+      "main_title": "ÖDR Tabloları",
+      "section_title": "Hareketlilik programlarından yararlanan tam zamanlı kadrolu öğretim elemanları",
+      "sort_order": 1100,
+      "guide_question": "ÖDR Tabloları kapsamında \"Hareketlilik programlarından yararlanan tam zamanlı kadrolu öğretim elemanları\" beklentisinin nasıl karşılandığını kanıtları ve varsa tablolarıyla açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "süreç tanımları ve uygulama kayıtları",
+        "öğretim elemanı özgeçmişleri",
+        "ders yükü tabloları",
+        "atama-yükseltme ölçütleri"
+      ],
+      "required_tables": [
+        "Tablo 12. Hareketlilik programlarından yararlanan tam zamanlı kadrolu öğretim elemanları"
+      ],
+      "requires_table": true,
+      "source_document": "sabak.pdf"
+    }
+  ]
+}

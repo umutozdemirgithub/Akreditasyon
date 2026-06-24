@@ -1,0 +1,13 @@
+MEDEK-KYS UX / Theme / Dashboard Polish Update
+
+Bu pakette yapılan başlıca iyileştirmeler:
+- Tema motoru genişletildi; CSS variable tabanlı senkronizasyon güçlendirildi.
+- Tema sayısı 31'e çıkarıldı.
+- Dashboard widget düzeni sürükle-bırak + sıfırlama ile iyileştirildi.
+- Micro-animasyonlar ve premium hover/transition polish eklendi.
+- Akreditasyon Stüdyosu varsayılan olarak heatmap odaklı daha sade akışa çekildi.
+- Kanıt Arşivi ve Tablo Yönetimi seçili ölçütte artık ölçüt adı da gösteriyor.
+- Onay ve Revizyon Merkezi sidebar görünürlüğünden çıkarıldı (tekrarı azaltmak için).
+- Denetime Hazır Dışa Aktarım'da eski doğrudan indirme seçenekleri kaldırıldı.
+- Toplu İşlemler ekranı daha profesyonel, filtrelenebilir ve önizlemeli hale getirildi.
+- Yardım & Kullanım ekranı rol bazlı daha detaylı ve görkemli olacak şekilde yeniden düzenlendi.

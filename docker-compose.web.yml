@@ -1,0 +1,109 @@
+services:
+  postgres:
+    image: postgres:16-alpine
+    container_name: akys-postgres
+    environment:
+      - POSTGRES_DB=${POSTGRES_DB:-medek}
+      - POSTGRES_USER=${POSTGRES_USER:-medek}
+      - POSTGRES_PASSWORD=${POSTGRES_PASSWORD:?POSTGRES_PASSWORD zorunludur}
+      - TZ=Europe/Istanbul
+    volumes:
+      - ${AKREDITASYON_ROOT:-./Akreditasyon}/00_canli_veri/postgresql:/var/lib/postgresql/data
+      - ./tools/postgres_schema.sql:/docker-entrypoint-initdb.d/001_schema.sql:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-medek} -d ${POSTGRES_DB:-medek}"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+      start_period: 20s
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "5"
+    restart: unless-stopped
+
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile.api
+    container_name: akys-api
+    environment:
+      - TZ=Europe/Istanbul
+      - MEDEK_ENV=production
+      - MEDEK_DATA_DIR=/app/medek_data
+      - MEDEK_ORG_STORAGE_DIR=/app/medek_data/kurumlar
+      - MEDEK_DB_BACKEND=${MEDEK_DB_BACKEND:-postgresql}
+      - POSTGRES_DB=${POSTGRES_DB:-medek}
+      - POSTGRES_USER=${POSTGRES_USER:-medek}
+      - POSTGRES_PASSWORD=${POSTGRES_PASSWORD:?POSTGRES_PASSWORD zorunludur}
+      - POSTGRES_HOST=${POSTGRES_HOST:-postgres}
+      - POSTGRES_PORT=${POSTGRES_PORT:-5432}
+      - MEDEK_DATABASE_URL=${MEDEK_DATABASE_URL:-}
+      - MEDEK_API_SECRET=${MEDEK_API_SECRET:?MEDEK_API_SECRET zorunludur}
+      - MEDEK_BOOTSTRAP_ADMIN_PASSWORD=${MEDEK_BOOTSTRAP_ADMIN_PASSWORD:-}
+      - MEDEK_ADMIN_PASSWORD=${MEDEK_ADMIN_PASSWORD:-}
+      - MEDEK_API_TOKEN_TTL_MINUTES=${MEDEK_API_TOKEN_TTL_MINUTES:-480}
+      - MEDEK_CORS_ORIGINS=${MEDEK_CORS_ORIGINS:-http://localhost:8080}
+      - MEDEK_TRUSTED_HOSTS=${MEDEK_TRUSTED_HOSTS:-localhost,127.0.0.1,api,web}
+      - MEDEK_LOGIN_MAX_FAILED_ATTEMPTS=${MEDEK_LOGIN_MAX_FAILED_ATTEMPTS:-5}
+      - MEDEK_LOGIN_LOCK_MINUTES=${MEDEK_LOGIN_LOCK_MINUTES:-15}
+      - MEDEK_RATE_LIMIT_ENABLED=${MEDEK_RATE_LIMIT_ENABLED:-1}
+      - MEDEK_RATE_LIMIT_LOGIN_PER_MINUTE=${MEDEK_RATE_LIMIT_LOGIN_PER_MINUTE:-5}
+      - MEDEK_RATE_LIMIT_GENERAL_PER_MINUTE=${MEDEK_RATE_LIMIT_GENERAL_PER_MINUTE:-300}
+      - MEDEK_RATE_LIMIT_UPLOAD_PER_MINUTE=${MEDEK_RATE_LIMIT_UPLOAD_PER_MINUTE:-20}
+      - MEDEK_RATE_LIMIT_EXPORT_PER_MINUTE=${MEDEK_RATE_LIMIT_EXPORT_PER_MINUTE:-30}
+      - MEDEK_MAX_UPLOAD_MB=${MEDEK_MAX_UPLOAD_MB:-50}
+      - MEDEK_MAX_BACKUP_MB=${MEDEK_MAX_BACKUP_MB:-10}
+      - MEDEK_MAX_REQUEST_BODY_MB=${MEDEK_MAX_REQUEST_BODY_MB:-60}
+      - MEDEK_MAIL_ENABLED=${MEDEK_MAIL_ENABLED:-false}
+      - MEDEK_SMTP_HOST=${MEDEK_SMTP_HOST:-}
+      - MEDEK_SMTP_PORT=${MEDEK_SMTP_PORT:-587}
+      - MEDEK_SMTP_USER=${MEDEK_SMTP_USER:-}
+      - MEDEK_SMTP_PASSWORD=${MEDEK_SMTP_PASSWORD:-}
+      - MEDEK_SMTP_FROM=${MEDEK_SMTP_FROM:-}
+      - MEDEK_SMTP_TLS=${MEDEK_SMTP_TLS:-true}
+      - MEDEK_SMTP_SSL=${MEDEK_SMTP_SSL:-false}
+      - MEDEK_APP_BASE_URL=${MEDEK_APP_BASE_URL:-http://localhost:8080}
+      - MEDEK_COOKIE_SECURE=${MEDEK_COOKIE_SECURE:-false}
+      - MEDEK_AI_ENABLED=${MEDEK_AI_ENABLED:-false}
+      - MEDEK_AI_PROVIDER=${MEDEK_AI_PROVIDER:-ollama}
+      - MEDEK_OLLAMA_BASE_URL=${MEDEK_OLLAMA_BASE_URL:-http://host.docker.internal:11434}
+      - MEDEK_OLLAMA_MODEL=${MEDEK_OLLAMA_MODEL:-llama3.1}
+      - MEDEK_OLLAMA_TIMEOUT=${MEDEK_OLLAMA_TIMEOUT:-45}
+      - MEDEK_DEFAULT_TENANT_NAME=${MEDEK_DEFAULT_TENANT_NAME:-Ana Kurum}
+    volumes:
+      - ${AKREDITASYON_ROOT:-./Akreditasyon}/00_canli_veri/medek_data:/app/medek_data
+    depends_on:
+      postgres:
+        condition: service_healthy
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "5"
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8000/api/health/ready')"]
+      interval: 30s
+      timeout: 5s
+      retries: 10
+      start_period: 60s
+    restart: unless-stopped
+
+  web:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: akys-web
+    ports:
+      - "${MEDEK_WEB_PORT:-8080}:80"
+    depends_on:
+      api:
+        condition: service_healthy
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "5"
+    restart: unless-stopped
+

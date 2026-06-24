@@ -1,0 +1,905 @@
+{
+  "template_key": "EPDAD",
+  "template_name": "EPDAD Öz Değerlendirme Raporu Şablonu",
+  "association_name": "EPDAD Eğitim Fakülteleri Programları Değerlendirme ve Akreditasyon Derneği",
+  "system_name": "EPDAD Akreditasyon Yönetimi",
+  "version": "2026.2-rule-based",
+  "report_type": "ÖZ DEĞERLENDİRME RAPORU",
+  "source_document": "resmi kaynak manuel doğrulama gerekir",
+  "source_note": "Kullanım öncesi ilgili akreditasyon kuruluşunun en güncel resmi Word/PDF şablonu ile kurum tarafından doğrulanmalıdır. Bu dosya sistem içi iskelet ve rehber amaçlıdır.",
+  "sections": [
+    {
+      "section_key": "A.1",
+      "main_title": "Programa İlişkin Genel Bilgiler",
+      "section_title": "İletişim Bilgileri",
+      "sort_order": 10,
+      "guide_question": "Programa İlişkin Genel Bilgiler kapsamında \"İletişim Bilgileri\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "resmi kaynak manuel doğrulama gerekir"
+    },
+    {
+      "section_key": "A.2",
+      "main_title": "Programa İlişkin Genel Bilgiler",
+      "section_title": "Program Başlıkları",
+      "sort_order": 20,
+      "guide_question": "Programa İlişkin Genel Bilgiler kapsamında \"Program Başlıkları\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "resmi kaynak manuel doğrulama gerekir"
+    },
+    {
+      "section_key": "A.3",
+      "main_title": "Programa İlişkin Genel Bilgiler",
+      "section_title": "Programın Türü",
+      "sort_order": 30,
+      "guide_question": "Programa İlişkin Genel Bilgiler kapsamında \"Programın Türü\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "resmi kaynak manuel doğrulama gerekir"
+    },
+    {
+      "section_key": "A.4",
+      "main_title": "Programa İlişkin Genel Bilgiler",
+      "section_title": "Programın Eğitim Dili",
+      "sort_order": 40,
+      "guide_question": "Programa İlişkin Genel Bilgiler kapsamında \"Programın Eğitim Dili\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "resmi kaynak manuel doğrulama gerekir"
+    },
+    {
+      "section_key": "A.5",
+      "main_title": "Programa İlişkin Genel Bilgiler",
+      "section_title": "Programın Kısa Tarihçesi ve Değişiklikler",
+      "sort_order": 50,
+      "guide_question": "Programa İlişkin Genel Bilgiler kapsamında \"Programın Kısa Tarihçesi ve Değişiklikler\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "resmi kaynak manuel doğrulama gerekir"
+    },
+    {
+      "section_key": "A.6",
+      "main_title": "Programa İlişkin Genel Bilgiler",
+      "section_title": "Önceki Gelişmeye Açık Yönlerin İyileştirilmesi ve Güçlü Yönlerin Sürdürülmesi Amacıyla Yapılan Çalışmalar",
+      "sort_order": 60,
+      "guide_question": "Programa İlişkin Genel Bilgiler kapsamında \"Önceki Gelişmeye Açık Yönlerin İyileştirilmesi ve Güçlü Yönlerin Sürdürülmesi Amacıyla Yapılan Çalışmalar\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "resmi kaynak manuel doğrulama gerekir"
+    },
+    {
+      "section_key": "EBS 1.1",
+      "main_title": "ES 1. Standart Alanı: Öğretimin Planlanması, Uygulanması ve Değerlendirilmesi",
+      "section_title": "Başlangıç Standartları",
+      "sort_order": 70,
+      "guide_question": "ES 1. Standart Alanı: Öğretimin Planlanması, Uygulanması ve Değerlendirilmesi kapsamında \"Başlangıç Standartları\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [
+        "Öğretim elemanı yükü ve yetkinlik tablosu"
+      ],
+      "requires_table": true,
+      "source_document": "resmi kaynak manuel doğrulama gerekir"
+    },
+    {
+      "section_key": "ESS 1.2",
+      "main_title": "ES 1. Standart Alanı: Öğretimin Planlanması, Uygulanması ve Değerlendirilmesi",
+      "section_title": "Süreç Standartları",
+      "sort_order": 80,
+      "guide_question": "ES 1. Standart Alanı: Öğretimin Planlanması, Uygulanması ve Değerlendirilmesi kapsamında \"Süreç Standartları\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [
+        "Öğretim elemanı yükü ve yetkinlik tablosu"
+      ],
+      "requires_table": true,
+      "source_document": "resmi kaynak manuel doğrulama gerekir"
+    },
+    {
+      "section_key": "EÜS 1.3",
+      "main_title": "ES 1. Standart Alanı: Öğretimin Planlanması, Uygulanması ve Değerlendirilmesi",
+      "section_title": "Ürün Standartları",
+      "sort_order": 90,
+      "guide_question": "ES 1. Standart Alanı: Öğretimin Planlanması, Uygulanması ve Değerlendirilmesi kapsamında \"Ürün Standartları\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [
+        "Öğretim elemanı yükü ve yetkinlik tablosu"
+      ],
+      "requires_table": true,
+      "source_document": "resmi kaynak manuel doğrulama gerekir"
+    },
+    {
+      "section_key": "ES 1",
+      "main_title": "ES 1. Standart Alanı: Öğretimin Planlanması, Uygulanması ve Değerlendirilmesi",
+      "section_title": "Standart Alanı Hakkında Değerlendirme",
+      "sort_order": 100,
+      "guide_question": "ES 1. Standart Alanı: Öğretimin Planlanması, Uygulanması ve Değerlendirilmesi kapsamında \"Standart Alanı Hakkında Değerlendirme\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [
+        "Öğretim elemanı yükü ve yetkinlik tablosu"
+      ],
+      "requires_table": true,
+      "source_document": "resmi kaynak manuel doğrulama gerekir"
+    },
+    {
+      "section_key": "EBS 2.1",
+      "main_title": "ES 2. Standart Alanı: Öğretim Elemanları ve Yetiştirilmesi",
+      "section_title": "Başlangıç Standartları",
+      "sort_order": 110,
+      "guide_question": "ES 2. Standart Alanı: Öğretim Elemanları ve Yetiştirilmesi kapsamında \"Başlangıç Standartları\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [
+        "Öğretim elemanı yükü ve yetkinlik tablosu"
+      ],
+      "requires_table": true,
+      "source_document": "resmi kaynak manuel doğrulama gerekir"
+    },
+    {
+      "section_key": "ESS 2.2",
+      "main_title": "ES 2. Standart Alanı: Öğretim Elemanları ve Yetiştirilmesi",
+      "section_title": "Süreç Standartları",
+      "sort_order": 120,
+      "guide_question": "ES 2. Standart Alanı: Öğretim Elemanları ve Yetiştirilmesi kapsamında \"Süreç Standartları\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [
+        "Öğretim elemanı yükü ve yetkinlik tablosu"
+      ],
+      "requires_table": true,
+      "source_document": "resmi kaynak manuel doğrulama gerekir"
+    },
+    {
+      "section_key": "EÜS 2.3",
+      "main_title": "ES 2. Standart Alanı: Öğretim Elemanları ve Yetiştirilmesi",
+      "section_title": "Ürün Standartları",
+      "sort_order": 130,
+      "guide_question": "ES 2. Standart Alanı: Öğretim Elemanları ve Yetiştirilmesi kapsamında \"Ürün Standartları\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [
+        "Öğretim elemanı yükü ve yetkinlik tablosu"
+      ],
+      "requires_table": true,
+      "source_document": "resmi kaynak manuel doğrulama gerekir"
+    },
+    {
+      "section_key": "ES 2",
+      "main_title": "ES 2. Standart Alanı: Öğretim Elemanları ve Yetiştirilmesi",
+      "section_title": "Standart Alanı Hakkında Değerlendirme",
+      "sort_order": 140,
+      "guide_question": "ES 2. Standart Alanı: Öğretim Elemanları ve Yetiştirilmesi kapsamında \"Standart Alanı Hakkında Değerlendirme\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [
+        "Öğretim elemanı yükü ve yetkinlik tablosu"
+      ],
+      "requires_table": true,
+      "source_document": "resmi kaynak manuel doğrulama gerekir"
+    },
+    {
+      "section_key": "EBS 3.1",
+      "main_title": "ES 3. Standart Alanı: Öğrenciler: Öğrenci Alımı, Gelişimi ve Başarısı, Destek ve Rehberlik Hizmetleri",
+      "section_title": "Başlangıç Standartları",
+      "sort_order": 150,
+      "guide_question": "ES 3. Standart Alanı: Öğrenciler: Öğrenci Alımı, Gelişimi ve Başarısı, Destek ve Rehberlik Hizmetleri kapsamında \"Başlangıç Standartları\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [
+        "Öğrenci kabul, başarı, mezuniyet ve hareketlilik tablosu"
+      ],
+      "requires_table": true,
+      "source_document": "resmi kaynak manuel doğrulama gerekir"
+    },
+    {
+      "section_key": "ESS 3.2",
+      "main_title": "ES 3. Standart Alanı: Öğrenciler: Öğrenci Alımı, Gelişimi ve Başarısı, Destek ve Rehberlik Hizmetleri",
+      "section_title": "Süreç Standartları",
+      "sort_order": 160,
+      "guide_question": "ES 3. Standart Alanı: Öğrenciler: Öğrenci Alımı, Gelişimi ve Başarısı, Destek ve Rehberlik Hizmetleri kapsamında \"Süreç Standartları\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [
+        "Öğrenci kabul, başarı, mezuniyet ve hareketlilik tablosu"
+      ],
+      "requires_table": true,
+      "source_document": "resmi kaynak manuel doğrulama gerekir"
+    },
+    {
+      "section_key": "EÜS 3.3",
+      "main_title": "ES 3. Standart Alanı: Öğrenciler: Öğrenci Alımı, Gelişimi ve Başarısı, Destek ve Rehberlik Hizmetleri",
+      "section_title": "Ürün Standartları",
+      "sort_order": 170,
+      "guide_question": "ES 3. Standart Alanı: Öğrenciler: Öğrenci Alımı, Gelişimi ve Başarısı, Destek ve Rehberlik Hizmetleri kapsamında \"Ürün Standartları\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [
+        "Öğrenci kabul, başarı, mezuniyet ve hareketlilik tablosu"
+      ],
+      "requires_table": true,
+      "source_document": "resmi kaynak manuel doğrulama gerekir"
+    },
+    {
+      "section_key": "ES 3",
+      "main_title": "ES 3. Standart Alanı: Öğrenciler: Öğrenci Alımı, Gelişimi ve Başarısı, Destek ve Rehberlik Hizmetleri",
+      "section_title": "Standart Alanı Hakkında Değerlendirme",
+      "sort_order": 180,
+      "guide_question": "ES 3. Standart Alanı: Öğrenciler: Öğrenci Alımı, Gelişimi ve Başarısı, Destek ve Rehberlik Hizmetleri kapsamında \"Standart Alanı Hakkında Değerlendirme\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [
+        "Öğrenci kabul, başarı, mezuniyet ve hareketlilik tablosu"
+      ],
+      "requires_table": true,
+      "source_document": "resmi kaynak manuel doğrulama gerekir"
+    },
+    {
+      "section_key": "EBS 4.1",
+      "main_title": "ES 4. Standart Alanı: Fakülte-Okul İş Birliği",
+      "section_title": "Başlangıç Standartları",
+      "sort_order": 190,
+      "guide_question": "ES 4. Standart Alanı: Fakülte-Okul İş Birliği kapsamında \"Başlangıç Standartları\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "resmi kaynak manuel doğrulama gerekir"
+    },
+    {
+      "section_key": "ESS 4.2",
+      "main_title": "ES 4. Standart Alanı: Fakülte-Okul İş Birliği",
+      "section_title": "Süreç Standartları",
+      "sort_order": 200,
+      "guide_question": "ES 4. Standart Alanı: Fakülte-Okul İş Birliği kapsamında \"Süreç Standartları\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "resmi kaynak manuel doğrulama gerekir"
+    },
+    {
+      "section_key": "EÜS 4.3",
+      "main_title": "ES 4. Standart Alanı: Fakülte-Okul İş Birliği",
+      "section_title": "Ürün Standartları",
+      "sort_order": 210,
+      "guide_question": "ES 4. Standart Alanı: Fakülte-Okul İş Birliği kapsamında \"Ürün Standartları\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "resmi kaynak manuel doğrulama gerekir"
+    },
+    {
+      "section_key": "ES 4",
+      "main_title": "ES 4. Standart Alanı: Fakülte-Okul İş Birliği",
+      "section_title": "Standart Alanı Hakkında Değerlendirme",
+      "sort_order": 220,
+      "guide_question": "ES 4. Standart Alanı: Fakülte-Okul İş Birliği kapsamında \"Standart Alanı Hakkında Değerlendirme\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "resmi kaynak manuel doğrulama gerekir"
+    },
+    {
+      "section_key": "EBS 5.1",
+      "main_title": "ES 5. Standart Alanı: Tesisler, Öğrenme Ortamları ve Kaynakları",
+      "section_title": "Başlangıç Standartları",
+      "sort_order": 230,
+      "guide_question": "ES 5. Standart Alanı: Tesisler, Öğrenme Ortamları ve Kaynakları kapsamında \"Başlangıç Standartları\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "resmi kaynak manuel doğrulama gerekir"
+    },
+    {
+      "section_key": "ESS 5.2",
+      "main_title": "ES 5. Standart Alanı: Tesisler, Öğrenme Ortamları ve Kaynakları",
+      "section_title": "Süreç Standartları",
+      "sort_order": 240,
+      "guide_question": "ES 5. Standart Alanı: Tesisler, Öğrenme Ortamları ve Kaynakları kapsamında \"Süreç Standartları\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "resmi kaynak manuel doğrulama gerekir"
+    },
+    {
+      "section_key": "EÜS 5.3",
+      "main_title": "ES 5. Standart Alanı: Tesisler, Öğrenme Ortamları ve Kaynakları",
+      "section_title": "Ürün Standartları",
+      "sort_order": 250,
+      "guide_question": "ES 5. Standart Alanı: Tesisler, Öğrenme Ortamları ve Kaynakları kapsamında \"Ürün Standartları\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "resmi kaynak manuel doğrulama gerekir"
+    },
+    {
+      "section_key": "ES 5",
+      "main_title": "ES 5. Standart Alanı: Tesisler, Öğrenme Ortamları ve Kaynakları",
+      "section_title": "Standart Alanı Hakkında Değerlendirme",
+      "sort_order": 260,
+      "guide_question": "ES 5. Standart Alanı: Tesisler, Öğrenme Ortamları ve Kaynakları kapsamında \"Standart Alanı Hakkında Değerlendirme\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "resmi kaynak manuel doğrulama gerekir"
+    },
+    {
+      "section_key": "EBS 6.1",
+      "main_title": "ES 6. Standart Alanı: Yönetim",
+      "section_title": "Başlangıç Standartları",
+      "sort_order": 270,
+      "guide_question": "ES 6. Standart Alanı: Yönetim kapsamında \"Başlangıç Standartları\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "resmi kaynak manuel doğrulama gerekir"
+    },
+    {
+      "section_key": "ESS 6.2",
+      "main_title": "ES 6. Standart Alanı: Yönetim",
+      "section_title": "Süreç Standartları",
+      "sort_order": 280,
+      "guide_question": "ES 6. Standart Alanı: Yönetim kapsamında \"Süreç Standartları\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "resmi kaynak manuel doğrulama gerekir"
+    },
+    {
+      "section_key": "EÜS 6.3",
+      "main_title": "ES 6. Standart Alanı: Yönetim",
+      "section_title": "Ürün Standartları",
+      "sort_order": 290,
+      "guide_question": "ES 6. Standart Alanı: Yönetim kapsamında \"Ürün Standartları\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "resmi kaynak manuel doğrulama gerekir"
+    },
+    {
+      "section_key": "ES 6",
+      "main_title": "ES 6. Standart Alanı: Yönetim",
+      "section_title": "Standart Alanı Hakkında Değerlendirme",
+      "sort_order": 300,
+      "guide_question": "ES 6. Standart Alanı: Yönetim kapsamında \"Standart Alanı Hakkında Değerlendirme\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "resmi kaynak manuel doğrulama gerekir"
+    },
+    {
+      "section_key": "EBS 7.1",
+      "main_title": "ES 7. Standart Alanı: Kalite Güvencesi",
+      "section_title": "Başlangıç Standartları",
+      "sort_order": 310,
+      "guide_question": "ES 7. Standart Alanı: Kalite Güvencesi kapsamında \"Başlangıç Standartları\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [
+        "Kalite güvencesi faaliyet izleme tablosu"
+      ],
+      "requires_table": true,
+      "source_document": "resmi kaynak manuel doğrulama gerekir"
+    },
+    {
+      "section_key": "ESS 7.2",
+      "main_title": "ES 7. Standart Alanı: Kalite Güvencesi",
+      "section_title": "Süreç Standartları",
+      "sort_order": 320,
+      "guide_question": "ES 7. Standart Alanı: Kalite Güvencesi kapsamında \"Süreç Standartları\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [
+        "Kalite güvencesi faaliyet izleme tablosu"
+      ],
+      "requires_table": true,
+      "source_document": "resmi kaynak manuel doğrulama gerekir"
+    },
+    {
+      "section_key": "EÜS 7.3",
+      "main_title": "ES 7. Standart Alanı: Kalite Güvencesi",
+      "section_title": "Ürün Standartları",
+      "sort_order": 330,
+      "guide_question": "ES 7. Standart Alanı: Kalite Güvencesi kapsamında \"Ürün Standartları\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [
+        "Kalite güvencesi faaliyet izleme tablosu"
+      ],
+      "requires_table": true,
+      "source_document": "resmi kaynak manuel doğrulama gerekir"
+    },
+    {
+      "section_key": "ES 7",
+      "main_title": "ES 7. Standart Alanı: Kalite Güvencesi",
+      "section_title": "Standart Alanı Hakkında Değerlendirme",
+      "sort_order": 340,
+      "guide_question": "ES 7. Standart Alanı: Kalite Güvencesi kapsamında \"Standart Alanı Hakkında Değerlendirme\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [
+        "Kalite güvencesi faaliyet izleme tablosu"
+      ],
+      "requires_table": true,
+      "source_document": "resmi kaynak manuel doğrulama gerekir"
+    },
+    {
+      "section_key": "EK-I.1",
+      "main_title": "Ek I. Programa İlişkin Ek Bilgiler",
+      "section_title": "Lisans Eğitim Programı",
+      "sort_order": 350,
+      "guide_question": "Ek I. Programa İlişkin Ek Bilgiler kapsamında \"Lisans Eğitim Programı\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri",
+        "kanıt dizini ve ek belge listesi"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "resmi kaynak manuel doğrulama gerekir"
+    },
+    {
+      "section_key": "EK-I.2",
+      "main_title": "Ek I. Programa İlişkin Ek Bilgiler",
+      "section_title": "Akademik Personel Sayıları",
+      "sort_order": 360,
+      "guide_question": "Ek I. Programa İlişkin Ek Bilgiler kapsamında \"Akademik Personel Sayıları\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri",
+        "kanıt dizini ve ek belge listesi"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "resmi kaynak manuel doğrulama gerekir"
+    },
+    {
+      "section_key": "EK-I.3",
+      "main_title": "Ek I. Programa İlişkin Ek Bilgiler",
+      "section_title": "Öğretim Kadrosunun Analizi",
+      "sort_order": 370,
+      "guide_question": "Ek I. Programa İlişkin Ek Bilgiler kapsamında \"Öğretim Kadrosunun Analizi\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri",
+        "kanıt dizini ve ek belge listesi"
+      ],
+      "required_tables": [
+        "Öğretim elemanı yükü ve yetkinlik tablosu"
+      ],
+      "requires_table": true,
+      "source_document": "resmi kaynak manuel doğrulama gerekir"
+    },
+    {
+      "section_key": "EK-I.4",
+      "main_title": "Ek I. Programa İlişkin Ek Bilgiler",
+      "section_title": "Öğretim Elemanları Yük Özeti",
+      "sort_order": 380,
+      "guide_question": "Ek I. Programa İlişkin Ek Bilgiler kapsamında \"Öğretim Elemanları Yük Özeti\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri",
+        "kanıt dizini ve ek belge listesi"
+      ],
+      "required_tables": [
+        "Öğretim elemanı yükü ve yetkinlik tablosu"
+      ],
+      "requires_table": true,
+      "source_document": "resmi kaynak manuel doğrulama gerekir"
+    },
+    {
+      "section_key": "EK-I.5",
+      "main_title": "Ek I. Programa İlişkin Ek Bilgiler",
+      "section_title": "Öğrenci Analizleri",
+      "sort_order": 390,
+      "guide_question": "Ek I. Programa İlişkin Ek Bilgiler kapsamında \"Öğrenci Analizleri\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri",
+        "kanıt dizini ve ek belge listesi"
+      ],
+      "required_tables": [
+        "Öğrenci kabul, başarı, mezuniyet ve hareketlilik tablosu"
+      ],
+      "requires_table": true,
+      "source_document": "resmi kaynak manuel doğrulama gerekir"
+    },
+    {
+      "section_key": "EK-I.5.1",
+      "main_title": "Ek I. Programa İlişkin Ek Bilgiler",
+      "section_title": "Lisans Öğrencilerinin Yükseköğretim Kurumları Sınavı (YKS) Derecelerine İlişkin Bilgi",
+      "sort_order": 400,
+      "guide_question": "Ek I. Programa İlişkin Ek Bilgiler kapsamında \"Lisans Öğrencilerinin Yükseköğretim Kurumları Sınavı (YKS) Derecelerine İlişkin Bilgi\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri",
+        "kanıt dizini ve ek belge listesi"
+      ],
+      "required_tables": [
+        "Öğrenci kabul, başarı, mezuniyet ve hareketlilik tablosu",
+        "Öğretim elemanı yükü ve yetkinlik tablosu"
+      ],
+      "requires_table": true,
+      "source_document": "resmi kaynak manuel doğrulama gerekir"
+    },
+    {
+      "section_key": "EK-I.5.2",
+      "main_title": "Ek I. Programa İlişkin Ek Bilgiler",
+      "section_title": "Yatay Geçiş, Dikey Geçiş ve Çift Ana Dal Bilgileri",
+      "sort_order": 410,
+      "guide_question": "Ek I. Programa İlişkin Ek Bilgiler kapsamında \"Yatay Geçiş, Dikey Geçiş ve Çift Ana Dal Bilgileri\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri",
+        "kanıt dizini ve ek belge listesi"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "resmi kaynak manuel doğrulama gerekir"
+    },
+    {
+      "section_key": "EK-I.5.3",
+      "main_title": "Ek I. Programa İlişkin Ek Bilgiler",
+      "section_title": "Öğrenci ve Mezun Sayıları",
+      "sort_order": 420,
+      "guide_question": "Ek I. Programa İlişkin Ek Bilgiler kapsamında \"Öğrenci ve Mezun Sayıları\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri",
+        "kanıt dizini ve ek belge listesi"
+      ],
+      "required_tables": [
+        "Öğrenci kabul, başarı, mezuniyet ve hareketlilik tablosu"
+      ],
+      "requires_table": true,
+      "source_document": "resmi kaynak manuel doğrulama gerekir"
+    },
+    {
+      "section_key": "EK-I.6",
+      "main_title": "Ek I. Programa İlişkin Ek Bilgiler",
+      "section_title": "Derslere Göre Öğrenci Sayıları",
+      "sort_order": 430,
+      "guide_question": "Ek I. Programa İlişkin Ek Bilgiler kapsamında \"Derslere Göre Öğrenci Sayıları\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri",
+        "kanıt dizini ve ek belge listesi"
+      ],
+      "required_tables": [
+        "Öğrenci kabul, başarı, mezuniyet ve hareketlilik tablosu"
+      ],
+      "requires_table": true,
+      "source_document": "resmi kaynak manuel doğrulama gerekir"
+    },
+    {
+      "section_key": "EK-I.7",
+      "main_title": "Ek I. Programa İlişkin Ek Bilgiler",
+      "section_title": "Diğer Bilgiler",
+      "sort_order": 440,
+      "guide_question": "Ek I. Programa İlişkin Ek Bilgiler kapsamında \"Diğer Bilgiler\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri",
+        "kanıt dizini ve ek belge listesi"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "resmi kaynak manuel doğrulama gerekir"
+    },
+    {
+      "section_key": "II.1",
+      "main_title": "Ek II. Kurum Profili",
+      "section_title": "Kuruma İlişkin Bilgiler",
+      "sort_order": 450,
+      "guide_question": "Ek II. Kurum Profili kapsamında \"Kuruma İlişkin Bilgiler\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "resmi kaynak manuel doğrulama gerekir"
+    },
+    {
+      "section_key": "II.2",
+      "main_title": "Ek II. Kurum Profili",
+      "section_title": "Fakülteye İlişkin Bilgiler",
+      "sort_order": 460,
+      "guide_question": "Ek II. Kurum Profili kapsamında \"Fakülteye İlişkin Bilgiler\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "resmi kaynak manuel doğrulama gerekir"
+    },
+    {
+      "section_key": "II.3",
+      "main_title": "Ek II. Kurum Profili",
+      "section_title": "Personel ve Personel Politikaları",
+      "sort_order": 470,
+      "guide_question": "Ek II. Kurum Profili kapsamında \"Personel ve Personel Politikaları\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "resmi kaynak manuel doğrulama gerekir"
+    },
+    {
+      "section_key": "II.4",
+      "main_title": "Ek II. Kurum Profili",
+      "section_title": "Öğretim Üyelerinin Yükleri",
+      "sort_order": 480,
+      "guide_question": "Ek II. Kurum Profili kapsamında \"Öğretim Üyelerinin Yükleri\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [
+        "Öğretim elemanı yükü ve yetkinlik tablosu"
+      ],
+      "requires_table": true,
+      "source_document": "resmi kaynak manuel doğrulama gerekir"
+    },
+    {
+      "section_key": "II.5",
+      "main_title": "Ek II. Kurum Profili",
+      "section_title": "Yarı Zamanlı ve Ek Görevli Öğretim Elemanlarının İzlenmesi",
+      "sort_order": 490,
+      "guide_question": "Ek II. Kurum Profili kapsamında \"Yarı Zamanlı ve Ek Görevli Öğretim Elemanlarının İzlenmesi\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [
+        "Öğretim elemanı yükü ve yetkinlik tablosu"
+      ],
+      "requires_table": true,
+      "source_document": "resmi kaynak manuel doğrulama gerekir"
+    },
+    {
+      "section_key": "II.6",
+      "main_title": "Ek II. Kurum Profili",
+      "section_title": "Öğrenci Kayıt ve Mezuniyet Bilgileri",
+      "sort_order": 500,
+      "guide_question": "Ek II. Kurum Profili kapsamında \"Öğrenci Kayıt ve Mezuniyet Bilgileri\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [
+        "Öğrenci kabul, başarı, mezuniyet ve hareketlilik tablosu"
+      ],
+      "requires_table": true,
+      "source_document": "resmi kaynak manuel doğrulama gerekir"
+    },
+    {
+      "section_key": "II.7",
+      "main_title": "Ek II. Kurum Profili",
+      "section_title": "Kredi Tanımı",
+      "sort_order": 510,
+      "guide_question": "Ek II. Kurum Profili kapsamında \"Kredi Tanımı\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "resmi kaynak manuel doğrulama gerekir"
+    },
+    {
+      "section_key": "II.8",
+      "main_title": "Ek II. Kurum Profili",
+      "section_title": "Kabul, Yatay ve Dikey Geçiş, Çift Ana Dal ve Mezuniyet Koşulları",
+      "sort_order": 520,
+      "guide_question": "Ek II. Kurum Profili kapsamında \"Kabul, Yatay ve Dikey Geçiş, Çift Ana Dal ve Mezuniyet Koşulları\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "resmi kaynak manuel doğrulama gerekir"
+    }
+  ]
+}

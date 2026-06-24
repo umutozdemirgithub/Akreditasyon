@@ -1,0 +1,353 @@
+{
+  "template_key": "ZİDEK",
+  "template_name": "ZİDEK Öz Değerlendirme Raporu Şablonu",
+  "association_name": "ZİDEK Ziraat Fakülteleri Eğitim Programları Değerlendirme ve Akreditasyon Derneği",
+  "system_name": "ZİDEK Akreditasyon Yönetimi",
+  "version": "resmi-kaynak-kontrol-2026.06",
+  "report_type": "ÖZ DEĞERLENDİRME RAPORU",
+  "source_document": "https://zidek.org.tr/",
+  "source_note": "Kullanım öncesi ilgili akreditasyon kuruluşunun en güncel resmi Word/PDF şablonu ile kurum tarafından doğrulanmalıdır. Bu dosya sistem içi iskelet ve rehber amaçlıdır.",
+  "sections": [
+    {
+      "section_key": "A.1",
+      "main_title": "Programa İlişkin Genel Bilgiler",
+      "section_title": "Program ve kurum tanıtımı",
+      "sort_order": 10,
+      "guide_question": "Programa İlişkin Genel Bilgiler kapsamında \"Program ve kurum tanıtımı\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "https://zidek.org.tr/"
+    },
+    {
+      "section_key": "A.2",
+      "main_title": "Programa İlişkin Genel Bilgiler",
+      "section_title": "Programın kısa tarihçesi ve önemli değişiklikler",
+      "sort_order": 20,
+      "guide_question": "Programa İlişkin Genel Bilgiler kapsamında \"Programın kısa tarihçesi ve önemli değişiklikler\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "https://zidek.org.tr/"
+    },
+    {
+      "section_key": "A.3",
+      "main_title": "Programa İlişkin Genel Bilgiler",
+      "section_title": "Önceki değerlendirme / akreditasyon bilgileri",
+      "sort_order": 30,
+      "guide_question": "Programa İlişkin Genel Bilgiler kapsamında \"Önceki değerlendirme / akreditasyon bilgileri\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "https://zidek.org.tr/"
+    },
+    {
+      "section_key": "A.4",
+      "main_title": "Programa İlişkin Genel Bilgiler",
+      "section_title": "Program değerlendirici iletişim bilgileri",
+      "sort_order": 40,
+      "guide_question": "Programa İlişkin Genel Bilgiler kapsamında \"Program değerlendirici iletişim bilgileri\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "https://zidek.org.tr/"
+    },
+    {
+      "section_key": "1.1",
+      "main_title": "Ölçüt 1. Öğrenciler",
+      "section_title": "Öğrenciler",
+      "sort_order": 50,
+      "guide_question": "Ölçüt 1. Öğrenciler kapsamında \"Öğrenciler\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [
+        "Öğrenci kabul, başarı, mezuniyet ve hareketlilik tablosu"
+      ],
+      "requires_table": true,
+      "source_document": "https://zidek.org.tr/"
+    },
+    {
+      "section_key": "2.1",
+      "main_title": "Ölçüt 2. Program Eğitim Amaçları",
+      "section_title": "Program Eğitim Amaçları",
+      "sort_order": 60,
+      "guide_question": "Ölçüt 2. Program Eğitim Amaçları kapsamında \"Program Eğitim Amaçları\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "https://zidek.org.tr/"
+    },
+    {
+      "section_key": "3.1",
+      "main_title": "Ölçüt 3. Program Çıktıları",
+      "section_title": "Program Çıktıları",
+      "sort_order": 70,
+      "guide_question": "Ölçüt 3. Program Çıktıları kapsamında \"Program Çıktıları\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [
+        "Program çıktıları ve ölçme-değerlendirme ilişki tablosu"
+      ],
+      "requires_table": true,
+      "source_document": "https://zidek.org.tr/"
+    },
+    {
+      "section_key": "4.1",
+      "main_title": "Ölçüt 4. Eğitim Planı",
+      "section_title": "Eğitim Planı",
+      "sort_order": 80,
+      "guide_question": "Ölçüt 4. Eğitim Planı kapsamında \"Eğitim Planı\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [
+        "Eğitim planı / müfredat matrisi"
+      ],
+      "requires_table": true,
+      "source_document": "https://zidek.org.tr/"
+    },
+    {
+      "section_key": "5.1",
+      "main_title": "Ölçüt 5. Öğretim Kadrosu",
+      "section_title": "Öğretim Kadrosu",
+      "sort_order": 90,
+      "guide_question": "Ölçüt 5. Öğretim Kadrosu kapsamında \"Öğretim Kadrosu\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [
+        "Öğretim elemanı yükü ve yetkinlik tablosu"
+      ],
+      "requires_table": true,
+      "source_document": "https://zidek.org.tr/"
+    },
+    {
+      "section_key": "6.1",
+      "main_title": "Ölçüt 6. Altyapı ve Uygulama Olanakları",
+      "section_title": "Altyapı ve Uygulama Olanakları",
+      "sort_order": 100,
+      "guide_question": "Ölçüt 6. Altyapı ve Uygulama Olanakları kapsamında \"Altyapı ve Uygulama Olanakları\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [
+        "Altyapı, laboratuvar ve kaynak envanteri"
+      ],
+      "requires_table": true,
+      "source_document": "https://zidek.org.tr/"
+    },
+    {
+      "section_key": "7.1",
+      "main_title": "Ölçüt 7. Kurum Desteği ve Parasal Kaynaklar",
+      "section_title": "Kurum Desteği ve Parasal Kaynaklar",
+      "sort_order": 110,
+      "guide_question": "Ölçüt 7. Kurum Desteği ve Parasal Kaynaklar kapsamında \"Kurum Desteği ve Parasal Kaynaklar\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "https://zidek.org.tr/"
+    },
+    {
+      "section_key": "8.1",
+      "main_title": "Ölçüt 8. Yönetim ve Karar Alma Süreçleri",
+      "section_title": "Yönetim ve Karar Alma Süreçleri",
+      "sort_order": 120,
+      "guide_question": "Ölçüt 8. Yönetim ve Karar Alma Süreçleri kapsamında \"Yönetim ve Karar Alma Süreçleri\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "https://zidek.org.tr/"
+    },
+    {
+      "section_key": "9.1",
+      "main_title": "Ölçüt 9. Sürekli İyileştirme",
+      "section_title": "Sürekli İyileştirme",
+      "sort_order": 130,
+      "guide_question": "Ölçüt 9. Sürekli İyileştirme kapsamında \"Sürekli İyileştirme\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [
+        "PUKÖ sürekli iyileştirme izleme tablosu"
+      ],
+      "requires_table": true,
+      "source_document": "https://zidek.org.tr/"
+    },
+    {
+      "section_key": "10.1",
+      "main_title": "Ölçüt 10. Ziraat Alanına Özgü Ölçütler",
+      "section_title": "Ziraat Alanına Özgü Ölçütler",
+      "sort_order": 140,
+      "guide_question": "Ölçüt 10. Ziraat Alanına Özgü Ölçütler kapsamında \"Ziraat Alanına Özgü Ölçütler\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "https://zidek.org.tr/"
+    },
+    {
+      "section_key": "EK-I.1",
+      "main_title": "Ek I. Programa İlişkin Ek Bilgiler",
+      "section_title": "Ders bilgi paketleri",
+      "sort_order": 150,
+      "guide_question": "Ek I. Programa İlişkin Ek Bilgiler kapsamında \"Ders bilgi paketleri\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri",
+        "kanıt dizini ve ek belge listesi"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "https://zidek.org.tr/"
+    },
+    {
+      "section_key": "EK-I.2",
+      "main_title": "Ek I. Programa İlişkin Ek Bilgiler",
+      "section_title": "Öğretim elemanı özgeçmişleri",
+      "sort_order": 160,
+      "guide_question": "Ek I. Programa İlişkin Ek Bilgiler kapsamında \"Öğretim elemanı özgeçmişleri\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri",
+        "kanıt dizini ve ek belge listesi"
+      ],
+      "required_tables": [
+        "Öğretim elemanı yükü ve yetkinlik tablosu"
+      ],
+      "requires_table": true,
+      "source_document": "https://zidek.org.tr/"
+    },
+    {
+      "section_key": "EK-I.3",
+      "main_title": "Ek I. Programa İlişkin Ek Bilgiler",
+      "section_title": "Kanıt dizini ve ek belge listesi",
+      "sort_order": 170,
+      "guide_question": "Ek I. Programa İlişkin Ek Bilgiler kapsamında \"Kanıt dizini ve ek belge listesi\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri",
+        "kanıt dizini ve ek belge listesi"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "https://zidek.org.tr/"
+    },
+    {
+      "section_key": "EK-II.1",
+      "main_title": "Ek II. Kurum Profili",
+      "section_title": "Kurumun genel profili",
+      "sort_order": 180,
+      "guide_question": "Ek II. Kurum Profili kapsamında \"Kurumun genel profili\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [],
+      "requires_table": false,
+      "source_document": "https://zidek.org.tr/"
+    },
+    {
+      "section_key": "EK-II.2",
+      "main_title": "Ek II. Kurum Profili",
+      "section_title": "Kurum kalite güvence sistemi",
+      "sort_order": 190,
+      "guide_question": "Ek II. Kurum Profili kapsamında \"Kurum kalite güvence sistemi\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [
+        "Kalite güvencesi faaliyet izleme tablosu"
+      ],
+      "requires_table": true,
+      "source_document": "https://zidek.org.tr/"
+    },
+    {
+      "section_key": "EK-II.3",
+      "main_title": "Ek II. Kurum Profili",
+      "section_title": "Kurumsal altyapı ve destek hizmetleri",
+      "sort_order": 200,
+      "guide_question": "Ek II. Kurum Profili kapsamında \"Kurumsal altyapı ve destek hizmetleri\" beklentisinin nasıl karşılandığını; süreç, kanıt, tablo ve iyileştirme döngüsüyle açıklayın.",
+      "expected_evidence": [
+        "ilgili kurul/komisyon kararları",
+        "uygulama kayıtları ve süreç çıktıları",
+        "paydaş görüşleri / toplantı tutanakları",
+        "ölçme-değerlendirme veya izleme verileri"
+      ],
+      "required_tables": [
+        "Altyapı, laboratuvar ve kaynak envanteri"
+      ],
+      "requires_table": true,
+      "source_document": "https://zidek.org.tr/"
+    }
+  ]
+}

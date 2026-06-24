@@ -1,0 +1,9 @@
+MEDEK-KYS v100.4 - Studio UX, Embedded Assistant, Preview Cleanup, DOCX Table Import
+
+Changes:
+- Akreditasyon Asistanı aktif çalışma başlığı içine taşındı.
+- Akreditasyon Stüdyosu sadeleştirildi: gelişmiş kalite/iş akışı alanı kapalı detay bölümüne alındı.
+- Stüdyo ana yerleşimi iki kolonlu odak moduna çekildi; sağdaki ayrı asistan paneli kaldırıldı.
+- Denetime Hazır Önizleme ekranındaki görünür "Rapor Çıktısı Oluştur" bölümü kaldırıldı.
+- DOCX rapor içe aktarımında tabloların kaybolmaması için daha toleranslı başlık/ölçüt eşleştirme ve doğrudan tablo kaydetme yolu eklendi.
+- Build ve proje validasyonu geçti.

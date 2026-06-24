@@ -1,0 +1,341 @@
+/* Extracted from styles.css lines 2121-2460. Keep import order in ../styles.css. */
+/* ====================== TABBED EXPANDER WORKSPACES ====================== */
+
+.tabbed-expander {
+  border: 1px solid rgba(199, 216, 237, .95);
+  border-radius: 24px;
+  background:
+    linear-gradient(180deg, rgba(255,255,255,.96), rgba(248,251,255,.94));
+  box-shadow: 0 24px 62px rgba(30, 64, 175, .14);
+  overflow: hidden;
+}
+
+.tabbed-expander summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 18px;
+  min-height: 92px;
+  padding: 22px 24px;
+  cursor: pointer;
+  list-style: none;
+  background:
+    linear-gradient(135deg, rgba(15,118,110,.06), rgba(37,99,235,.08)),
+    rgba(255,255,255,.64);
+}
+
+.tabbed-expander summary::-webkit-details-marker {
+  display: none;
+}
+
+.tabbed-expander summary h2 {
+  margin: 4px 0 0;
+  color: #0f172a;
+  font-size: 22px;
+}
+
+.tabbed-expander summary p {
+  margin: 8px 0 0;
+  color: #526985;
+  font-weight: 760;
+  line-height: 1.5;
+}
+
+.tabbed-expander summary .badge {
+  flex: 0 0 auto;
+}
+
+.tabbed-tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  padding: 12px;
+  border-top: 1px solid #dbe7f4;
+  border-bottom: 1px solid #dbe7f4;
+  background: #eef4fb;
+}
+
+.tabbed-tabs button {
+  min-height: 42px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  border: 1px solid transparent;
+  border-radius: 14px;
+  background: transparent;
+  color: #42526b;
+  padding: 10px 14px;
+  font-weight: 950;
+  cursor: pointer;
+}
+
+.tabbed-tabs button small {
+  min-width: 22px;
+  min-height: 22px;
+  display: inline-grid;
+  place-items: center;
+  border-radius: 999px;
+  background: rgba(37, 99, 235, .10);
+  color: #2563eb;
+  font-size: 11px;
+}
+
+.tabbed-tabs button.active {
+  color: #fff;
+  background: linear-gradient(135deg, #0f766e, #2563eb);
+  box-shadow: 0 12px 24px rgba(37, 99, 235, .22);
+}
+
+.tabbed-tabs button.active small {
+  background: rgba(255,255,255,.22);
+  color: #fff;
+}
+
+.tabbed-content {
+  padding: 18px;
+}
+
+.tabbed-content .data-table-wrap {
+  margin: 0;
+  box-shadow: none;
+}
+
+.tabbed-form,
+.tabbed-stack,
+.tabbed-note {
+  display: grid;
+  gap: 15px;
+}
+
+.tabbed-form {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.tabbed-form > .form-grid,
+.tabbed-form > .wide,
+.tabbed-form > .primary-action,
+.tabbed-form > .checkbox-line,
+.tabbed-stack > .data-table-wrap,
+.tabbed-note > .mini-list {
+  grid-column: 1 / -1;
+}
+
+.tabbed-form label,
+.tabbed-stack label {
+  display: grid;
+  gap: 7px;
+  color: #40536f;
+  font-weight: 900;
+}
+
+.tabbed-form input,
+.tabbed-form select,
+.tabbed-stack input,
+.tabbed-stack select {
+  width: 100%;
+  border: 1.5px solid #bfd0e3;
+  border-radius: 14px;
+  background: rgba(248, 251, 255, .98);
+  color: #142037;
+  padding: 14px 16px;
+}
+
+.tabbed-form .primary-action {
+  justify-self: stretch;
+}
+
+.choice-panel {
+  display: grid;
+  gap: 12px;
+  border: 1px solid #d2deec;
+  border-radius: 18px;
+  background:
+    radial-gradient(circle at 94% 4%, rgba(40, 118, 220, .09), transparent 28%),
+    linear-gradient(145deg, #ffffff, #f6faff);
+  padding: 14px;
+}
+
+.choice-panel-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 14px;
+}
+
+.choice-panel-header strong,
+.choice-panel-header small {
+  display: block;
+}
+
+.choice-panel-header small {
+  margin-top: 3px;
+  color: #657894;
+  font-weight: 800;
+}
+
+.choice-actions {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: 8px;
+}
+
+.choice-actions button {
+  border: 1px solid #c5d6ea;
+  border-radius: 999px;
+  background: #fff;
+  color: #175fd0;
+  padding: 8px 11px;
+  font-weight: 950;
+  cursor: pointer;
+}
+
+.program-choice-list {
+  display: grid;
+  gap: 12px;
+  max-height: 360px;
+  overflow: auto;
+  padding-right: 4px;
+}
+
+.grouped-list {
+  display: grid;
+  gap: 16px;
+}
+
+.group-block {
+  display: grid;
+  gap: 12px;
+  border: 1px solid #d7e3f1;
+  border-radius: 16px;
+  background: linear-gradient(145deg, #fff, #f7fbff);
+  padding: 14px;
+}
+
+.group-block-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 2px 2px 0;
+}
+
+.group-block-header div {
+  display: grid;
+  gap: 3px;
+}
+
+.group-block-header span {
+  color: #6d7f99;
+  font-size: 12px;
+  font-weight: 900;
+  text-transform: uppercase;
+  letter-spacing: .06em;
+}
+
+.group-block-header strong {
+  color: #0c2448;
+  font-size: 18px;
+  font-weight: 950;
+}
+
+.group-block-header small {
+  border-radius: 999px;
+  background: #e8f1ff;
+  color: #175fd0;
+  padding: 7px 10px;
+  font-weight: 950;
+  white-space: nowrap;
+}
+
+.choice-group {
+  display: grid;
+  gap: 8px;
+}
+
+.choice-group > span {
+  color: #475d7c;
+  font-size: 12px;
+  font-weight: 950;
+  text-transform: uppercase;
+  letter-spacing: .04em;
+}
+
+.section-choice-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 9px;
+  max-height: 420px;
+  overflow: auto;
+  padding-right: 4px;
+}
+
+.choice-check {
+  display: flex !important;
+  grid-template-columns: none !important;
+  align-items: flex-start;
+  gap: 10px !important;
+  border: 1px solid #d7e3f1;
+  border-radius: 14px;
+  background: rgba(255,255,255,.88);
+  padding: 11px 12px;
+  cursor: pointer;
+}
+
+.choice-check:hover {
+  border-color: #8eb8f4;
+  box-shadow: 0 10px 22px rgba(40,118,220,.10);
+}
+
+.choice-check input {
+  width: auto !important;
+  margin-top: 4px;
+  accent-color: #1f6fe5;
+}
+
+.choice-check strong,
+.choice-check small {
+  display: block;
+}
+
+.choice-check strong {
+  color: #13233c;
+  line-height: 1.35;
+}
+
+.choice-check small {
+  margin-top: 3px;
+  color: #647893;
+  font-weight: 800;
+  line-height: 1.35;
+}
+
+.tabbed-note {
+  min-height: 260px;
+  align-content: center;
+  border-radius: 20px;
+  padding: 18px;
+  background:
+    linear-gradient(135deg, rgba(255,255,255,.86), rgba(239,246,255,.72));
+}
+
+.tabbed-note .mini-list span {
+  min-height: 36px;
+}
+
+@media (max-width: 760px) {
+  .tabbed-expander summary {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .tabbed-form {
+    grid-template-columns: 1fr;
+  }
+
+  .tabbed-tabs button {
+    flex: 1 1 180px;
+  }
+}
+

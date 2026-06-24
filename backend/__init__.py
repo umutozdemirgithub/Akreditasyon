@@ -1,0 +1,2 @@
+"""MEDEK web backend package."""
+

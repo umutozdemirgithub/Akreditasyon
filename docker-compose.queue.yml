@@ -1,0 +1,80 @@
+services:
+  redis:
+    image: redis:7-alpine
+    container_name: akys-redis
+    command: ["redis-server", "--appendonly", "yes"]
+    volumes:
+      - medek_redis_data:/data
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+      start_period: 10s
+    restart: unless-stopped
+
+  api:
+    environment:
+      - MEDEK_JOB_BACKEND=rq
+      - MEDEK_REDIS_URL=${MEDEK_REDIS_URL:-redis://redis:6379/0}
+      - MEDEK_RQ_QUEUE=${MEDEK_RQ_QUEUE:-medek_exports}
+      - MEDEK_MAX_UPLOAD_MB=${MEDEK_MAX_UPLOAD_MB:-50}
+      - MEDEK_MAX_BACKUP_MB=${MEDEK_MAX_BACKUP_MB:-10}
+      - MEDEK_MAX_REQUEST_BODY_MB=${MEDEK_MAX_REQUEST_BODY_MB:-60}
+    depends_on:
+      redis:
+        condition: service_healthy
+      postgres:
+        condition: service_healthy
+
+  worker:
+    build:
+      context: .
+      dockerfile: Dockerfile.api
+    container_name: akys-worker
+    command: ["python", "-m", "backend.worker"]
+    environment:
+      - TZ=Europe/Istanbul
+      - MEDEK_ENV=production
+      - MEDEK_DATA_DIR=/app/medek_data
+      - MEDEK_ORG_STORAGE_DIR=/app/medek_data/kurumlar
+      - MEDEK_DB_BACKEND=${MEDEK_DB_BACKEND:-postgresql}
+      - POSTGRES_DB=${POSTGRES_DB:-medek}
+      - POSTGRES_USER=${POSTGRES_USER:-medek}
+      - POSTGRES_PASSWORD=${POSTGRES_PASSWORD:?POSTGRES_PASSWORD zorunludur}
+      - POSTGRES_HOST=${POSTGRES_HOST:-postgres}
+      - POSTGRES_PORT=${POSTGRES_PORT:-5432}
+      - MEDEK_DATABASE_URL=${MEDEK_DATABASE_URL:-}
+      - MEDEK_API_SECRET=${MEDEK_API_SECRET:?MEDEK_API_SECRET zorunludur}
+      - MEDEK_BOOTSTRAP_ADMIN_PASSWORD=${MEDEK_BOOTSTRAP_ADMIN_PASSWORD:-}
+      - MEDEK_ADMIN_PASSWORD=${MEDEK_ADMIN_PASSWORD:-}
+      - MEDEK_CORS_ORIGINS=${MEDEK_CORS_ORIGINS:-http://localhost:8080}
+      - MEDEK_TRUSTED_HOSTS=${MEDEK_TRUSTED_HOSTS:-localhost,127.0.0.1,api,web}
+      - MEDEK_JOB_BACKEND=rq
+      - MEDEK_REDIS_URL=${MEDEK_REDIS_URL:-redis://redis:6379/0}
+      - MEDEK_RQ_QUEUE=${MEDEK_RQ_QUEUE:-medek_exports}
+      - MEDEK_MAX_UPLOAD_MB=${MEDEK_MAX_UPLOAD_MB:-50}
+      - MEDEK_MAX_BACKUP_MB=${MEDEK_MAX_BACKUP_MB:-10}
+      - MEDEK_MAX_REQUEST_BODY_MB=${MEDEK_MAX_REQUEST_BODY_MB:-60}
+    volumes:
+      - ${AKREDITASYON_ROOT:-./Akreditasyon}/00_canli_veri/medek_data:/app/medek_data
+    depends_on:
+      redis:
+        condition: service_healthy
+      postgres:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "python", "-m", "backend.worker", "--healthcheck"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 30s
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "5"
+    restart: unless-stopped
+
+volumes:
+  medek_redis_data:
