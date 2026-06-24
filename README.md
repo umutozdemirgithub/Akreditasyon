@@ -1,58 +1,8 @@
-# AKYS Web ver_100.1
-
 ## Masaüstü Akreditasyon Veri Klasörü
 
 Web stack `tools/start_web_stack.ps1` veya `tools/start_web_stack.sh` ile başlatıldığında masaüstünde `Akreditasyon` klasörü hazırlanır. Canlı PostgreSQL verileri, kanıt dosyaları, DOCX/PDF çıktıları ve zaman damgalı yedekler bu ana klasör altında tutulur. Ayrıntılar: `docs/DESKTOP_AKREDITASYON_STORAGE.md`.
 
-
-## ver_100.1 - Rol ve Tema Senkronizasyonu
-
-- Paket kökü `ver_100`, uygulama sürümü `ver_100.1-role-theme-sync` olarak standartlaştırıldı.
-- Rol adları kullanıcı arayüzünde `Editör / Hazırlayıcı` ve `Denetçi` olarak tekleştirildi; eski `Editör`, `Hazırlayıcı`, `İzleyici` ve `Denetçi (İzleyici)` değerleri geriye dönük alias olarak kabul edilir.
-- Birim Koordinatörü varsayılan işlem/sidebar matrisinde ayrı sütun olarak korunur ve eski matris kayıtları temizlenirken senkronize edilir.
-- Sidebar role-based accent, program bağlam kartı, mini ilerleme ve dar ekranda top navigation davranışıyla güçlendirildi.
-- Dashboard hero, kalite skoru, KPI trendleri, widget library ve sürükle-bırak kart sıralama deneyimiyle yenilendi.
-
-## v103 Multi-Tenant Isolation
-
-- Kurum/tenant ve fakülte/MYO veri modeli eklendi.
-- Program, kullanıcı ve program kullanıcı atamaları `tenant_id` ile izole edildi.
-- Global Admin / Tenant Admin ayrımı için `tenant_scope` eklendi.
-- Admin paneline `Kurum / Fakülte İzolasyonu` sekmesi eklendi.
-- Kullanıcı formuna kurum, fakülte ve tenant kapsamı alanları eklendi.
-- Yeni endpointler: `/api/admin/tenants`, `/api/admin/tenant-faculties`, `/api/admin/tenant-dashboard`.
-
-## v134 - AKYS Rol Modeli ve Varsayılan Yetki Matrisi
-
-- Ürün adı kullanıcı arayüzünde AKYS (Akreditasyon Kalite Yönetim Sistemi) olarak güncellendi.
-- Varsayılan rol sıralaması `Süper Admin > Kurum Admin > Birim Admin > Birim Koordinatörü > Editör / Hazırlayıcı > Onaylayıcı > Denetçi` olarak standartlaştırıldı.
-- Varsayılan Yetki Matrisi ve Sidebar Görünürlük Matrisi kullanıcı tarafından verilen AKYS rol tablosuna göre yeniden dengelendi.
-- Denetçi rolü salt okuma / watermark mantığına, Onaylayıcı rolü okuma ve resmi karar akışına, Editör / Hazırlayıcı rolü içerik üretimine odaklandı.
-
-## v133 - Üç Kademeli Yönetici Hiyerarşisi
-
-- Yetki sıralaması netleştirildi: Süper Admin > Kurum Admin > Birim Admin > Editör / Hazırlayıcı > Onaylayıcı > Denetçi (İzleyici).
-- Süper Admin Kurum Admin sütununu belirler; Kurum Admin kendi kurumunda Birim Admin, Editör / Hazırlayıcı, Onaylayıcı ve Denetçi (İzleyici) rollerine yetki dağıtır.
-- Tenant override kayıtları okuma anında Kurum Admin tavanıyla kırpılır; Süper Admin Kurum Admin yetkisini kapatırsa eski alt rol grantleri efektif olamaz.
-- Birim Admin tenant-genel işlem/sidebar matrisini ezemez; yalnız kendi birim/program kapsamındaki alt işleyişleri yönetir.
-- Yetki Matrisi CSV/JSON indirme özelliği korunur ve aynı hiyerarşik görünürlük sınırlarına uyar.
-
-## v129 - Hierarchy, Faculty Scope and Studio Refinement
-
-- Birim Admin Program Yönetimi erişimi fakülte kapsamıyla düzeltildi; yetki açıldığında yalnız kendi birimindeki programları görebilir ve yönetebilir.
-- Rol hiyerarşisi netleştirildi: Süper Admin > Kurum Admin > Birim Admin > Editör / Hazırlayıcı > Onaylayıcı > Denetçi (İzleyici). Her rol kendi ve altındaki rollerin işleyişini görür.
-- Birim Admin'in Kurum Admin/Süper Admin tarafından belirlenen tenant genelindeki işlem/sidebar matrisini ezmesi engellendi.
-- Rapor belge metadata alanları (`report_no`, `doc_date`, `rev_date`, `rev_no`) program bazlı saklanır; farklı programlara sızmaz.
-- Akreditasyon Stüdyosu komut paneli, öncelik kartları, iş akışı özetleri ve görsel iyileştirmelerle daha kullanışlı hale getirildi.
-
-## v128 - Enterprise Hardening Release
-
-- Ana sürüm standardı `v128-enterprise-hardening` olarak tekleştirildi.
-- SSE canlı akışta ana API token'ının query string ile taşınması kaldırıldı; kısa ömürlü HttpOnly stream cookie kullanılır.
-- Upload/restore/import uçlarına request body ve chunk bazlı boyut sınırı eklendi.
-- API readiness healthcheck veritabanını doğrular; Redis/RQ worker için healthcheck eklendi.
-- Temiz release paketi `.env`, veritabanı, kanıt dosyası, `node_modules` ve build çıktısı içermez.
-
+## v01 - Enterprise Hardening Release
 Bu paket AKYS (Akreditasyon Kalite Yönetim Sistemi) web dağıtımını içerir. Uygulama FastAPI tabanlı API, React/Vite tabanlı web arayüzü, Nginx reverse proxy, PostgreSQL üretim veritabanı ve isteğe bağlı Redis/RQ worker ile çalışır.
 
 ## İçerik
@@ -254,7 +204,7 @@ Onaya gönderme, revizyon, onay, son teslim tarihi, rol atama ve rapor çıktıs
 - Toplu işlemlere toplu son teslim tarihi atama desteği eklendi.
 - Kanıt haritası, onay zaman çizelgesi ve kalite kırılımı `insights` endpoint'i ile tekleştirildi.
 
-### Enterprise v100.4 Modülleri
+### Enterprise v01 Modülleri
 
 Bu pakette dört kurumsal modül genişletildi:
 
@@ -279,95 +229,6 @@ Ayrıntılar için:
 - `docs/OFFLINE_AI_OLLAMA.md`
 - `docs/PWA_PRO_MODE.md`
 
-
-## v102 Governance Audit Versioning
-
-- Compliance audit payload ve DOCX export eklendi.
-- Workflow reminder önizleme altyapısı eklendi.
-- Version Control ekranı iki snapshot/güncel kayıt arasında yan yana diff gösterecek şekilde güçlendirildi.
-- Hazırlık Denetimi ekranı governance, workflow ve compliance verilerini tek panele aldı.
-
-## v105 Workflow Automation
-
-Bu sürümde termin, onay ve revizyon süreçleri için otomatik hatırlatma motoru eklendi. Admin panelinde `Ayarlar & Yedek → Workflow Otomasyon` sekmesinden ayarlar yapılabilir, aday bildirimler önizlenebilir ve manuel çalıştırma yapılabilir. Ayrıntılar: `docs/WORKFLOW_AUTOMATION.md`.
-
-
-
-## v106 Advanced Analytics Export
-
-Advanced Analytics Dashboard artık DOCX/PDF olarak dışa aktarılabilir. Export job sistemine `analytics_docx` ve `analytics_pdf` tipleri eklendi. Yönetici raporu KPI özeti, risk heat map, PUKÖ dağılımı, trend tabloları ve öneriler içerir.
-
-### v107 Mobile PWA Pro
-
-Mobil kullanım için rol bazlı bottom navigation, kamera ile kanıt yükleme, offline read-only PWA cache ve touch-friendly editör davranışı eklendi. Ayrıntılar için `docs/MOBILE_PWA_PRO.md` dosyasına bakın.
-
-## v109 PostgreSQL Production Hardening
-
-- PostgreSQL runtime backend eklendi (`MEDEK_DB_BACKEND=postgresql`).
-- Docker Compose PostgreSQL servisi ve healthcheck ile güncellendi.
-- SQLite uyumlu repository SQL'leri için PostgreSQL compatibility layer eklendi.
-- Tenant-aware PostgreSQL indeksleri ve üretim şeması güncellendi.
-- SQLite → PostgreSQL migration ve cutover doğrulama araçları eklendi.
-- Detay: `docs/POSTGRESQL_PRODUCTION_HARDENING.md`.
-
-
-## v110 Deployment / Installer Wizard
-
-Okul sunucusuna kurulumdan sonra Admin panelinde `Ayarlar & Yedek → Kurulum Sihirbazı` sekmesini açın. Bu panel PostgreSQL bağlantısı, CORS/trusted host ayarı, SMTP hazırlığı, Ollama durumu, kanıt klasörü yazma izni ve Docker deployment dosyalarını tek yerde kontrol eder. Detay: `docs/DEPLOYMENT_INSTALLER_WIZARD.md`.
-
-Yeni backend endpointleri:
-
-```txt
-GET  /api/admin/deployment/wizard
-POST /api/admin/deployment/smoke
-```
-
-
-## v111 Role Delegation Matrix Pro
-
-- Rol yapısı Süper Admin / Kurum Admin / Editör / Hazırlayıcı / Onaylayıcı / Denetçi (İzleyici) olarak yeniden düzenlendi.
-- Süper Admin tüm yetki sınırlarını belirler; Kurum Admin sadece kendi kurumunda ve kendisine açık bırakılan izinleri Editör / Hazırlayıcı / Onaylayıcı / Denetçi (İzleyici) rollerine dağıtabilir.
-- Yetki Matrisi ekranı pro delegasyon akışı, rol kartları, kilitli sütunlar, kategori filtresi ve modern toggle kontrolleriyle güçlendirildi.
-- İşlem, sidebar ve section bazlı editör yetkileri aynı çalışma alanında yönetilebilir hale getirildi.
-
-
-## v112 Tenant Safe Delete Center
-
-- Kurum silme akışı bağlı kayıt farkındalıklı hale getirildi.
-- Bağlı program/kullanıcı varsa doğrudan hata yerine güvenli işlem paneli açılır.
-- Pasifleştir, bağlı kayıtları başka kuruma taşı ve kurumla birlikte arşivle seçenekleri eklendi.
-- Backend tarafında `mode=safe|deactivate|move|archive_children` kontrolleri eklendi.
-
-
-## v118 First Institution Setup Wizard
-
-- İlk açılışta teknik `tenant_default` kaydı artık hazır kurum gibi gösterilmez.
-- Süper Admin için İlk Kurum Kurulumu ekranı eklendi.
-- Kurum kurulumu tamamlanmadan program/fakülte/program kullanıcı sekmeleri açılmaz.
-- `setup_completed_at` alanı ile ilk kurum kurulumunun tamamlanma durumu izlenir.
-
-
-## v120 - Birim Admin Rol Kapsamı
-
-- Rol yapısına **Birim Admin** eklendi.
-- Program Bazlı Kullanıcı ve Rol Atama ekranında bu rol seçildiğinde Bölüm ve Program Adı alanları gizlenir.
-- Seçili Fakülte/MYO altındaki tüm programlar otomatik atama kapsamına alınır.
-- Backend, Birim Admin atamasının tek bir Fakülte/MYO kapsamıyla sınırlı kalmasını doğrular.
-- Yetki Matrisi artık Birim Admin rolünü ayrı sütun olarak destekler.
-
-
-## v121 - Rol Bazlı Varsayılan Yetki Matrisi
-
-- Süper Admin / Kurum Admin / Fakülte-MYO Admin / Editör / Hazırlayıcı / Onaylayıcı / Denetçi (İzleyici) için önerilen varsayılan işlem matrisi ayarlandı.
-- Sidebar görünürlük matrisi rol hiyerarşisine göre yeniden dengelendi.
-- Section bazlı granular editör yetkilerinde varsayılan rol davranışı güncellendi.
-- Mevcut kurulumlarda uygulanabilmesi için Yetki Matrisi ekranına “Önerilen Varsayılan Matrisi Yükle” aksiyonu eklendi.
-- Detay: docs/ROLE_DEFAULT_PERMISSION_PRESET.md
-
-
-## v126 AI / Ollama Runtime Manager
-- AI / Ollama Testi paneline enable/disable, runtime ayar kaydı, model listeleme ve model yükleme/doğrulama eklendi.
-- Kurulum Sihirbazı AI uyarısı artık kullanıcıyı bu panele yönlendirir.
 
 
 ### İlk kurum kurulumu davranışı
